@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  29 JUN 2019 07:07
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  29 JUN 2019 07:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -701,88 +701,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) (misc/variables.tex)
 (misc/meta.tex) (misc/preamble.tex
-("E:\Master1 RSD\Memoire\latex\tex\latex\base\inputenc.sty"
-Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks43
-\inpenc@posthook=\toks44
+("E:\Master1 RSD\Memoire\latex\tex\latex\xltxtra\xltxtra.sty"
+Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
 
-
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
-
-) ("E:\Master1 RSD\Memoire\latex\tex\generic\babel\babel.sty"
-Package: babel 2018/06/05 3.22 The Babel package
-
-("E:\Master1 RSD\Memoire\latex\tex\generic\babel\switch.def"
-File: switch.def 2018/06/05 3.22 Babel switching mechanism
-)
-*************************************
-* Local config file bblopts.cfg used
-*
-("E:\Master1 RSD\Memoire\latex\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngerman.ldf"
-Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
-phy)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngermanb.ldf"
-Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
-aphy)
-
-("E:\Master1 RSD\Memoire\latex\tex\generic\babel\babel.def"
-File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count158
-\U@D=\dimen190
-
-("E:\Master1 RSD\Memoire\latex\tex\generic\babel\xebabel.def"
-("E:\Master1 RSD\Memoire\latex\tex\generic\babel\txtbabel.def"))
-LaTeX Info: Redefining \textlatin on input line 1915.
-\bbl@dirlevel=\count159
-)
-Package babel Info: Making " an active character on input line 121.
-)))
-("E:\Master1 RSD\Memoire\latex\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 105.
-
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\lm\t1lmss.fd"
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
-("E:\Master1 RSD\Memoire\latex\tex\latex\jknappen\mathrsfs.sty"
-Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
-\symrsfs=\mathgroup6
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\stmaryrd\stmaryrd.sty"
-Package: stmaryrd 1994/03/03 St Mary's Road symbol package
-\symstmry=\mathgroup7
-LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
-(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\polyglossia\polyglossia.sty"
-Package: polyglossia 2018/04/07 v1.43 Alternative to Babel for XeLaTeX and LuaL
-aTeX
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\makecmds\makecmds.sty"
-Package: makecmds 2009/09/03 v1.0a extra command making commands
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkeyval.tex"
-("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks45
-\XKV@tempa@toks=\toks46
-)
-\XKV@depth=\count160
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\fontspec\fontspec.sty"
 ("E:\Master1 RSD\Memoire\latex\tex\latex\l3packages\xparse\xparse.sty"
 ("E:\Master1 RSD\Memoire\latex\tex\latex\l3kernel\expl3.sty"
@@ -790,23 +711,23 @@ Package: expl3 2018-06-14 L3 programming layer (loader)
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2018-06-14 L3 programming layer (code)
-\c_max_int=\count161
-\l_tmpa_int=\count162
-\l_tmpb_int=\count163
-\g_tmpa_int=\count164
-\g_tmpb_int=\count165
-\g__kernel_prg_map_int=\count166
-\c_log_iow=\count167
-\l_iow_line_count_int=\count168
-\l__iow_line_target_int=\count169
-\l__iow_one_indent_int=\count170
-\l__iow_indent_int=\count171
-\c_zero_dim=\dimen191
-\c_max_dim=\dimen192
-\l_tmpa_dim=\dimen193
-\l_tmpb_dim=\dimen194
-\g_tmpa_dim=\dimen195
-\g_tmpb_dim=\dimen196
+\c_max_int=\count158
+\l_tmpa_int=\count159
+\l_tmpb_int=\count160
+\g_tmpa_int=\count161
+\g_tmpb_int=\count162
+\g__kernel_prg_map_int=\count163
+\c_log_iow=\count164
+\l_iow_line_count_int=\count165
+\l__iow_line_target_int=\count166
+\l__iow_one_indent_int=\count167
+\l__iow_indent_int=\count168
+\c_zero_dim=\dimen190
+\c_max_dim=\dimen191
+\l_tmpa_dim=\dimen192
+\l_tmpb_dim=\dimen193
+\g_tmpa_dim=\dimen194
+\g_tmpb_dim=\dimen195
 \c_zero_skip=\skip57
 \c_max_skip=\skip58
 \l_tmpa_skip=\skip59
@@ -819,97 +740,97 @@ Package: expl3 2018-06-14 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count172
-\l__intarray_loop_int=\count173
-\c__intarray_sp_dim=\dimen197
-\g__intarray_font_int=\count174
-\c__fp_leading_shift_int=\count175
-\c__fp_middle_shift_int=\count176
-\c__fp_trailing_shift_int=\count177
-\c__fp_big_leading_shift_int=\count178
-\c__fp_big_middle_shift_int=\count179
-\c__fp_big_trailing_shift_int=\count180
-\c__fp_Bigg_leading_shift_int=\count181
-\c__fp_Bigg_middle_shift_int=\count182
-\c__fp_Bigg_trailing_shift_int=\count183
-\g__fp_array_int=\count184
-\l__fp_array_loop_int=\count185
-\l__sort_length_int=\count186
-\l__sort_min_int=\count187
-\l__sort_top_int=\count188
-\l__sort_max_int=\count189
-\l__sort_true_max_int=\count190
-\l__sort_block_int=\count191
-\l__sort_begin_int=\count192
-\l__sort_end_int=\count193
-\l__sort_A_int=\count194
-\l__sort_B_int=\count195
-\l__sort_C_int=\count196
-\l__tl_analysis_normal_int=\count197
-\l__tl_analysis_index_int=\count198
-\l__tl_analysis_nesting_int=\count199
-\l__tl_analysis_type_int=\count266
-\l__regex_internal_a_int=\count267
-\l__regex_internal_b_int=\count268
-\l__regex_internal_c_int=\count269
-\l__regex_balance_int=\count270
-\l__regex_group_level_int=\count271
-\l__regex_mode_int=\count272
-\c__regex_cs_in_class_mode_int=\count273
-\c__regex_cs_mode_int=\count274
-\l__regex_catcodes_int=\count275
-\l__regex_default_catcodes_int=\count276
-\c__regex_catcode_L_int=\count277
-\c__regex_catcode_O_int=\count278
-\c__regex_catcode_A_int=\count279
-\c__regex_all_catcodes_int=\count280
-\l__regex_show_lines_int=\count281
-\l__regex_min_state_int=\count282
-\l__regex_max_state_int=\count283
-\l__regex_left_state_int=\count284
-\l__regex_right_state_int=\count285
-\l__regex_capturing_group_int=\count286
-\l__regex_min_pos_int=\count287
-\l__regex_max_pos_int=\count288
-\l__regex_curr_pos_int=\count289
-\l__regex_start_pos_int=\count290
-\l__regex_success_pos_int=\count291
-\l__regex_curr_char_int=\count292
-\l__regex_curr_catcode_int=\count293
-\l__regex_last_char_int=\count294
-\l__regex_case_changed_char_int=\count295
-\l__regex_curr_state_int=\count296
-\l__regex_step_int=\count297
-\l__regex_min_active_int=\count298
-\l__regex_max_active_int=\count299
-\l__regex_replacement_csnames_int=\count300
-\l__regex_match_count_int=\count301
-\l__regex_min_submatch_int=\count302
-\l__regex_submatch_int=\count303
-\l__regex_zeroth_submatch_int=\count304
-\g__regex_trace_regex_int=\count305
+\l_keys_choice_int=\count169
+\l__intarray_loop_int=\count170
+\c__intarray_sp_dim=\dimen196
+\g__intarray_font_int=\count171
+\c__fp_leading_shift_int=\count172
+\c__fp_middle_shift_int=\count173
+\c__fp_trailing_shift_int=\count174
+\c__fp_big_leading_shift_int=\count175
+\c__fp_big_middle_shift_int=\count176
+\c__fp_big_trailing_shift_int=\count177
+\c__fp_Bigg_leading_shift_int=\count178
+\c__fp_Bigg_middle_shift_int=\count179
+\c__fp_Bigg_trailing_shift_int=\count180
+\g__fp_array_int=\count181
+\l__fp_array_loop_int=\count182
+\l__sort_length_int=\count183
+\l__sort_min_int=\count184
+\l__sort_top_int=\count185
+\l__sort_max_int=\count186
+\l__sort_true_max_int=\count187
+\l__sort_block_int=\count188
+\l__sort_begin_int=\count189
+\l__sort_end_int=\count190
+\l__sort_A_int=\count191
+\l__sort_B_int=\count192
+\l__sort_C_int=\count193
+\l__tl_analysis_normal_int=\count194
+\l__tl_analysis_index_int=\count195
+\l__tl_analysis_nesting_int=\count196
+\l__tl_analysis_type_int=\count197
+\l__regex_internal_a_int=\count198
+\l__regex_internal_b_int=\count199
+\l__regex_internal_c_int=\count266
+\l__regex_balance_int=\count267
+\l__regex_group_level_int=\count268
+\l__regex_mode_int=\count269
+\c__regex_cs_in_class_mode_int=\count270
+\c__regex_cs_mode_int=\count271
+\l__regex_catcodes_int=\count272
+\l__regex_default_catcodes_int=\count273
+\c__regex_catcode_L_int=\count274
+\c__regex_catcode_O_int=\count275
+\c__regex_catcode_A_int=\count276
+\c__regex_all_catcodes_int=\count277
+\l__regex_show_lines_int=\count278
+\l__regex_min_state_int=\count279
+\l__regex_max_state_int=\count280
+\l__regex_left_state_int=\count281
+\l__regex_right_state_int=\count282
+\l__regex_capturing_group_int=\count283
+\l__regex_min_pos_int=\count284
+\l__regex_max_pos_int=\count285
+\l__regex_curr_pos_int=\count286
+\l__regex_start_pos_int=\count287
+\l__regex_success_pos_int=\count288
+\l__regex_curr_char_int=\count289
+\l__regex_curr_catcode_int=\count290
+\l__regex_last_char_int=\count291
+\l__regex_case_changed_char_int=\count292
+\l__regex_curr_state_int=\count293
+\l__regex_step_int=\count294
+\l__regex_min_active_int=\count295
+\l__regex_max_active_int=\count296
+\l__regex_replacement_csnames_int=\count297
+\l__regex_match_count_int=\count298
+\l__regex_min_submatch_int=\count299
+\l__regex_submatch_int=\count300
+\l__regex_zeroth_submatch_int=\count301
+\g__regex_trace_regex_int=\count302
 \c_empty_box=\box54
 \l_tmpa_box=\box55
 \l_tmpb_box=\box56
 \g_tmpa_box=\box57
 \g_tmpb_box=\box58
-\l__box_top_dim=\dimen198
-\l__box_bottom_dim=\dimen199
-\l__box_left_dim=\dimen256
-\l__box_right_dim=\dimen257
-\l__box_top_new_dim=\dimen258
-\l__box_bottom_new_dim=\dimen259
-\l__box_left_new_dim=\dimen260
-\l__box_right_new_dim=\dimen261
+\l__box_top_dim=\dimen197
+\l__box_bottom_dim=\dimen198
+\l__box_left_dim=\dimen199
+\l__box_right_dim=\dimen256
+\l__box_top_new_dim=\dimen257
+\l__box_bottom_new_dim=\dimen258
+\l__box_left_new_dim=\dimen259
+\l__box_right_new_dim=\dimen260
 \l__box_internal_box=\box59
 \l__coffin_internal_box=\box60
-\l__coffin_internal_dim=\dimen262
-\l__coffin_offset_x_dim=\dimen263
-\l__coffin_offset_y_dim=\dimen264
-\l__coffin_x_dim=\dimen265
-\l__coffin_y_dim=\dimen266
-\l__coffin_x_prime_dim=\dimen267
-\l__coffin_y_prime_dim=\dimen268
+\l__coffin_internal_dim=\dimen261
+\l__coffin_offset_x_dim=\dimen262
+\l__coffin_offset_y_dim=\dimen263
+\l__coffin_x_dim=\dimen264
+\l__coffin_y_dim=\dimen265
+\l__coffin_x_prime_dim=\dimen266
+\l__coffin_y_prime_dim=\dimen267
 \c_empty_coffin=\box61
 \l__coffin_aligned_coffin=\box62
 \l__coffin_aligned_internal_coffin=\box63
@@ -918,45 +839,45 @@ Package: expl3 2018-06-14 L3 programming layer (code)
 \l__coffin_display_coffin=\box66
 \l__coffin_display_coord_coffin=\box67
 \l__coffin_display_pole_coffin=\box68
-\l__coffin_display_offset_dim=\dimen269
-\l__coffin_display_x_dim=\dimen270
-\l__coffin_display_y_dim=\dimen271
+\l__coffin_display_offset_dim=\dimen268
+\l__coffin_display_x_dim=\dimen269
+\l__coffin_display_y_dim=\dimen270
 \g__file_internal_ior=\read2
-\l__coffin_bounding_shift_dim=\dimen272
-\l__coffin_left_corner_dim=\dimen273
-\l__coffin_right_corner_dim=\dimen274
-\l__coffin_bottom_corner_dim=\dimen275
-\l__coffin_top_corner_dim=\dimen276
-\l__coffin_scaled_total_height_dim=\dimen277
-\l__coffin_scaled_width_dim=\dimen278
+\l__coffin_bounding_shift_dim=\dimen271
+\l__coffin_left_corner_dim=\dimen272
+\l__coffin_right_corner_dim=\dimen273
+\l__coffin_bottom_corner_dim=\dimen274
+\l__coffin_top_corner_dim=\dimen275
+\l__coffin_scaled_total_height_dim=\dimen276
+\l__coffin_scaled_width_dim=\dimen277
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\l3kernel\l3xdvipdfmx.def"
 File: l3xdvidpfmx.def 2018-06-14 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count306
+\g__driver_image_int=\count303
 ))
 Package: xparse 2018-05-12 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count307
-\g__xparse_grabber_int=\count308
-\l__xparse_m_args_int=\count309
-\l__xparse_mandatory_args_int=\count310
-\l__xparse_v_nesting_int=\count311
+\l__xparse_current_arg_int=\count304
+\g__xparse_grabber_int=\count305
+\l__xparse_m_args_int=\count306
+\l__xparse_mandatory_args_int=\count307
+\l__xparse_v_nesting_int=\count308
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\fontspec\fontspec-xetex.sty"
 Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count312
-\l__fontspec_language_int=\count313
-\l__fontspec_strnum_int=\count314
-\l__fontspec_tmp_int=\count315
-\l__fontspec_em_int=\count316
-\l__fontspec_emdef_int=\count317
-\l__fontspec_strong_int=\count318
-\l__fontspec_strongdef_int=\count319
-\l__fontspec_tmpa_dim=\dimen279
-\l__fontspec_tmpb_dim=\dimen280
-\l__fontspec_tmpc_dim=\dimen281
+\l__fontspec_script_int=\count309
+\l__fontspec_language_int=\count310
+\l__fontspec_strnum_int=\count311
+\l__fontspec_tmp_int=\count312
+\l__fontspec_em_int=\count313
+\l__fontspec_emdef_int=\count314
+\l__fontspec_strong_int=\count315
+\l__fontspec_strongdef_int=\count316
+\l__fontspec_tmpa_dim=\dimen278
+\l__fontspec_tmpb_dim=\dimen279
+\l__fontspec_tmpc_dim=\dimen280
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
@@ -1158,6 +1079,146 @@ LaTeX Info: Redefining \- on input line 4015.
 . Defining command \liningnums with sig. 'm' on line 4114.
 .................................................
 ))
+("E:\Master1 RSD\Memoire\latex\tex\latex\realscripts\realscripts.sty"
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesubscript with sig. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesuperscript with sig. 'm' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsubscript with sig. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsuperscript with sig. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
+.................................................
+\subsupersep=\dimen281
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\metalogo\metalogo.sty"
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks43
+\xl@@everylogo=\toks44
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box69
+\l__xetex_show_hyphens_temp_box=\box70
+\l__xetex_show_hyphens_final_box=\box71
+\g__xetex_show_hyphens_word_box=\box72
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) ("E:\Master1 RSD\Memoire\latex\tex\generic\babel\babel.sty"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel\switch.def"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Master1 RSD\Memoire\latex\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngerman.ldf"
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngermanb.ldf"
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel\babel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count317
+\U@D=\dimen282
+
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel\xebabel.def"
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel\txtbabel.def"))
+LaTeX Info: Redefining \textlatin on input line 1915.
+\bbl@dirlevel=\count318
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+("E:\Master1 RSD\Memoire\latex\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("E:\Master1 RSD\Memoire\latex\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 105.
+
+
+("E:\Master1 RSD\Memoire\latex\tex\latex\lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+("E:\Master1 RSD\Memoire\latex\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\stmaryrd\stmaryrd.sty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\polyglossia\polyglossia.sty"
+Package: polyglossia 2018/04/07 v1.43 Alternative to Babel for XeLaTeX and LuaL
+aTeX
+
+("E:\Master1 RSD\Memoire\latex\tex\latex\makecmds\makecmds.sty"
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+("E:\Master1 RSD\Memoire\latex\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkeyval.tex"
+("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
+)
+\XKV@depth=\count319
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
 \xpg@normalclass=\XeTeXcharclass1
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\polyglossia\gloss-german.ldf"
@@ -1173,7 +1234,7 @@ Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
 \csq@qlevel=\count323
 \csq@maxlvl=\count324
 \csq@tshold=\count325
-\csq@ltx@everypar=\toks47
+\csq@ltx@everypar=\toks49
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\csquotes\csquotes.def"
 File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
@@ -1186,30 +1247,30 @@ File: csquotes.cfg
 ))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\soul\soul.sty"
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks48
-\SOUL@lasttoken=\toks49
-\SOUL@cmds=\toks50
-\SOUL@buffer=\toks51
-\SOUL@token=\toks52
+\SOUL@word=\toks50
+\SOUL@lasttoken=\toks51
+\SOUL@cmds=\toks52
+\SOUL@buffer=\toks53
+\SOUL@token=\toks54
 \SOUL@spaceskip=\skip63
-\SOUL@ttwidth=\dimen282
-\SOUL@uldp=\dimen283
-\SOUL@ulht=\dimen284
+\SOUL@ttwidth=\dimen283
+\SOUL@uldp=\dimen284
+\SOUL@ulht=\dimen285
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\colortbl\colortbl.sty"
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen285
-\ar@mcellbox=\box69
-\extrarowheight=\dimen286
-\NC@list=\toks53
+\col@sep=\dimen286
+\ar@mcellbox=\box73
+\extrarowheight=\dimen287
+\NC@list=\toks55
 \extratabsurround=\skip64
 \backup@length=\skip65
-\ar@cellbox=\box70
+\ar@cellbox=\box74
 )
-\everycr=\toks54
+\everycr=\toks56
 \minrowclearance=\skip66
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\fontawesome\fontawesome.sty"
@@ -1257,7 +1318,7 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
 "
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box71
+\pgfnodeparttextbox=\box75
 ) ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
 "
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
@@ -1265,8 +1326,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pgf\compatibility\pgfcomp-version-0-65
 .sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen287
-\pgf@nodesepend=\dimen288
+\pgf@nodesepstart=\dimen288
+\pgf@nodesepend=\dimen289
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pgf\compatibility\pgfcomp-version-1-18
 .sty"
@@ -1280,10 +1341,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen289
-\pgffor@skip=\dimen290
-\pgffor@stack=\toks55
-\pgffor@toks=\toks56
+\pgffor@iter=\dimen290
+\pgffor@skip=\dimen291
+\pgffor@stack=\toks57
+\pgffor@toks=\toks58
 ))
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 "
@@ -1293,18 +1354,18 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 .code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count327
-\pgfplotmarksize=\dimen291
+\pgfplotmarksize=\dimen292
 )
-\tikz@lastx=\dimen292
-\tikz@lasty=\dimen293
-\tikz@lastxsaved=\dimen294
-\tikz@lastysaved=\dimen295
-\tikzleveldistance=\dimen296
-\tikzsiblingdistance=\dimen297
-\tikz@figbox=\box72
-\tikz@figbox@bg=\box73
-\tikz@tempbox=\box74
-\tikz@tempbox@bg=\box75
+\tikz@lastx=\dimen293
+\tikz@lasty=\dimen294
+\tikz@lastxsaved=\dimen295
+\tikz@lastysaved=\dimen296
+\tikzleveldistance=\dimen297
+\tikzsiblingdistance=\dimen298
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
 \tikztreelevel=\count328
 \tikznumberofchildren=\count329
 \tikznumberofcurrentchild=\count330
@@ -1334,7 +1395,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\libraries\pgflibraryarrows.code.
 tex"
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen298
+\arrowsize=\dimen299
 )) ("E:\Master1 RSD\Memoire\latex\tex\latex\animate\animate.sty"
 Package: animate 2018/06/27 PDF animations from files and inline graphics
 
@@ -1348,8 +1409,8 @@ Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count336
 \calc@Bcount=\count337
-\calc@Adimen=\dimen299
-\calc@Bdimen=\dimen300
+\calc@Adimen=\dimen300
+\calc@Bdimen=\dimen301
 \calc@Askip=\skip67
 \calc@Bskip=\skip68
 LaTeX Info: Redefining \setlength on input line 80.
@@ -1371,10 +1432,10 @@ atures
 Package: ocgbase 2018/06/07 v0.14 support package for ocgx2.sty
 \g_ocgbase_nd_int=\count342
 )
-\@anim@box=\box76
-\@anim@measbox=\box77
-\@anim@tmpdima=\dimen301
-\@anim@tmpdimb=\dimen302
+\@anim@box=\box80
+\@anim@measbox=\box81
+\@anim@tmpdima=\dimen302
+\@anim@tmpdimb=\dimen303
 \@anim@num=\count343
 \@anim@curframe=\count344
 \@anim@curframe@zb=\count345
@@ -1633,8 +1694,8 @@ Package: glossaries 2019/01/06 v4.42 (NLCT)
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\mfirstuc\mfirstuc.sty"
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-\@glsmfirst=\toks57
-\@glsmrest=\toks58
+\@glsmfirst=\toks59
+\@glsmrest=\toks60
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\textcase\textcase.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
@@ -1700,7 +1761,7 @@ Package: fp-upn 1996/10/21
 ("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-eval.sty"
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks59
+\@dtl@toks=\toks61
 \@dtl@tmpcount=\count488
 \dtl@tmplength=\skip92
 \dtl@sortresult=\count489
@@ -1722,12 +1783,12 @@ f"
 File: glossaries-german.ldf 2014/11/23 v1.0
 )
 \gls@level=\count495
-\@gls@tmpb=\toks60
+\@gls@tmpb=\toks62
 \gls@tmplen=\skip93
-\glskeylisttok=\toks61
-\glslabeltok=\toks62
-\glsshorttok=\toks63
-\glslongtok=\toks64
+\glskeylisttok=\toks63
+\glslabeltok=\toks64
+\glsshorttok=\toks65
+\glslongtok=\toks66
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-hypernav.st
 y"
@@ -1744,16 +1805,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTpre=\skip97
 \LTpost=\skip98
 \LTchunksize=\count496
-\LTcapwidth=\dimen303
-\LT@head=\box78
-\LT@firsthead=\box79
-\LT@foot=\box80
-\LT@lastfoot=\box81
+\LTcapwidth=\dimen304
+\LT@head=\box82
+\LT@firsthead=\box83
+\LT@foot=\box84
+\LT@lastfoot=\box85
 \LT@cols=\count497
 \LT@rows=\count498
 \c@LT@tables=\count499
 \c@LT@chunks=\count500
-\LT@p@ftn=\toks65
+\LT@p@ftn=\toks67
 )
 \glsdescwidth=\skip99
 \glspagelistwidth=\skip100
@@ -1764,21 +1825,21 @@ Package: glossary-super 2019/01/06 v4.42 (NLCT)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count501
-\ST@wd=\dimen304
+\ST@wd=\dimen305
 \ST@rightskip=\skip101
 \ST@leftskip=\skip102
 \ST@parfillskip=\skip103
-\ST@pageleft=\dimen305
-\ST@headht=\dimen306
-\ST@tailht=\dimen307
-\ST@pagesofar=\dimen308
-\ST@pboxht=\dimen309
-\ST@lineht=\dimen310
-\ST@stretchht=\dimen311
-\ST@prevht=\dimen312
-\ST@toadd=\dimen313
-\ST@dimen=\dimen314
-\ST@pbox=\box82
+\ST@pageleft=\dimen306
+\ST@headht=\dimen307
+\ST@tailht=\dimen308
+\ST@pagesofar=\dimen309
+\ST@pboxht=\dimen310
+\ST@lineht=\dimen311
+\ST@stretchht=\dimen312
+\ST@prevht=\dimen313
+\ST@toadd=\dimen314
+\ST@dimen=\dimen315
+\ST@pbox=\box86
 ))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-tree.sty"
 Package: glossary-tree 2019/01/06 v4.42 (NLCT)
@@ -1833,30 +1894,26 @@ ne 4.
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \c@tracingmulticols=\count502
-\mult@box=\box83
-\multicol@leftmargin=\dimen315
+\mult@box=\box87
+\multicol@leftmargin=\dimen316
 \c@unbalance=\count503
 \c@collectmore=\count504
 \doublecol@number=\count505
 \multicoltolerance=\count506
 \multicolpretolerance=\count507
-\full@width=\dimen316
-\page@free=\dimen317
-\premulticols=\dimen318
-\postmulticols=\dimen319
+\full@width=\dimen317
+\page@free=\dimen318
+\premulticols=\dimen319
+\postmulticols=\dimen320
 \multicolsep=\skip105
 \multicolbaselineskip=\skip106
-\partial@page=\box84
-\last@line=\box85
-\maxbalancingoverflow=\dimen320
-\mult@rightbox=\box86
-\mult@grightbox=\box87
-\mult@gfirstbox=\box88
-\mult@firstbox=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
+\partial@page=\box88
+\last@line=\box89
+\maxbalancingoverflow=\dimen321
+\mult@rightbox=\box90
+\mult@grightbox=\box91
+\mult@gfirstbox=\box92
+\mult@firstbox=\box93
 \@tempa=\box94
 \@tempa=\box95
 \@tempa=\box96
@@ -1870,39 +1927,43 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box104
 \@tempa=\box105
 \@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
 \c@columnbadness=\count508
 \c@finalcolumnbadness=\count509
-\last@try=\dimen321
-\multicolovershoot=\dimen322
-\multicolundershoot=\dimen323
-\mult@nat@firstbox=\box107
-\colbreak@box=\box108
+\last@try=\dimen322
+\multicolovershoot=\dimen323
+\multicolundershoot=\dimen324
+\mult@nat@firstbox=\box111
+\colbreak@box=\box112
 \mc@col@check@num=\count510
 )
 (beamerthemealinz.sty (beamerinnerthemealinz.sty) (beamerouterthemealinz.sty
-\metropolis@progressonsectionpage=\skip107
-\metropolis@progressonsectionpage@linewidth=\skip108
+\progressonsectionpage=\skip107
+\linewidthone=\skip108
 )
 (beamercolorthemealinz.sty) (beamerfontthemealinz.sty))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.sty"
 \lst@mode=\count511
-\lst@gtempboxa=\box109
-\lst@token=\toks66
+\lst@gtempboxa=\box113
+\lst@token=\toks68
 \lst@length=\count512
-\lst@currlwidth=\dimen324
+\lst@currlwidth=\dimen325
 \lst@column=\count513
 \lst@pos=\count514
-\lst@lostspace=\dimen325
-\lst@width=\dimen326
+\lst@lostspace=\dimen326
+\lst@width=\dimen327
 \lst@newlines=\count515
 \lst@lineno=\count516
-\lst@maxwidth=\dimen327
+\lst@maxwidth=\dimen328
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count517
 \lst@skipnumbers=\count518
-\lst@framebox=\box110
+\lst@framebox=\box114
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -1935,23 +1996,23 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip115
 \algomargin=\skip116
 \skipalgocfslide=\skip117
-\algowidth=\dimen328
-\inoutsize=\dimen329
-\inoutindent=\dimen330
-\interspacetitleruled=\dimen331
-\interspacealgoruled=\dimen332
-\interspacetitleboxruled=\dimen333
+\algowidth=\dimen329
+\inoutsize=\dimen330
+\inoutindent=\dimen331
+\interspacetitleruled=\dimen332
+\interspacealgoruled=\dimen333
+\interspacetitleboxruled=\dimen334
 \algocf@ruledwidth=\skip118
-\algocf@inoutbox=\box111
-\algocf@inputbox=\box112
+\algocf@inoutbox=\box115
+\algocf@inputbox=\box116
 \AlCapSkip=\skip119
 \AlCapHSkip=\skip120
 \algoskipindent=\skip121
-\algocf@nlbox=\box113
-\algocf@hangingbox=\box114
-\algocf@untilbox=\box115
+\algocf@nlbox=\box117
+\algocf@hangingbox=\box118
+\algocf@untilbox=\box119
 \algocf@skipuntil=\skip122
-\algocf@capbox=\box116
+\algocf@capbox=\box120
 \algocf@lcaptionbox=\skip123
 \algoheightruledefault=\skip124
 \algoheightrule=\skip125
@@ -1960,8 +2021,8 @@ Package: relsize 2013/03/29 ver 4.1
 \c@algocfline=\count521
 \c@algocfproc=\count522
 \c@algocf=\count523
-\algocf@algoframe=\box117
-\algocf@algobox=\box118
+\algocf@algoframe=\box121
+\algocf@algobox=\box122
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pst-plot\pst-plot.sty"
 Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
@@ -1994,35 +2055,35 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 \pstFP@times=\count532
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks67
-\pgfutil@tempdima=\dimen334
-\pgfutil@tempdimb=\dimen335
+\pgfutil@everybye=\toks69
+\pgfutil@tempdima=\dimen335
+\pgfutil@tempdimb=\dimen336
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common-lists.t
 ex")) ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfkeys.code.tex
 ") ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgffor.code.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen336
-\pgffor@skip=\dimen337
-\pgffor@stack=\toks68
-\pgffor@toks=\toks69
+\pgffor@iter=\dimen337
+\pgffor@skip=\dimen338
+\pgffor@stack=\toks70
+\pgffor@toks=\toks71
 )
 \psLoopIndex=\count533
 
 `PSTricks' v2.84  <2018/05/01> (tvz,hv)
-\pst@dima=\dimen338
-\pst@dimb=\dimen339
-\pst@dimc=\dimen340
-\pst@dimd=\dimen341
-\pst@dimg=\dimen342
-\pst@dimh=\dimen343
-\pst@dimm=\dimen344
-\pst@dimn=\dimen345
-\pst@dimo=\dimen346
-\pst@dimp=\dimen347
-\pst@hbox=\box119
-\pst@ibox=\box120
-\pst@boxg=\box121
+\pst@dima=\dimen339
+\pst@dimb=\dimen340
+\pst@dimc=\dimen341
+\pst@dimd=\dimen342
+\pst@dimg=\dimen343
+\pst@dimh=\dimen344
+\pst@dimm=\dimen345
+\pst@dimn=\dimen346
+\pst@dimo=\dimen347
+\pst@dimp=\dimen348
+\pst@hbox=\box123
+\pst@ibox=\box124
+\pst@boxg=\box125
 \pst@cnta=\count534
 \pst@cntb=\count535
 \pst@cntc=\count536
@@ -2034,27 +2095,27 @@ ex")) ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfkeys.code.tex
 \pst@cnto=\count542
 \pst@cntp=\count543
 \@zero=\count544
-\pst@toks=\toks70
+\pst@toks=\toks72
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"))
-\psunit=\dimen348
-\psxunit=\dimen349
-\psyunit=\dimen350
+\psunit=\dimen349
+\psxunit=\dimen350
+\psyunit=\dimen351
 \pst@C@@rType=\count545
-\pslinewidth=\dimen351
-\psk@startLW=\dimen352
-\psk@endLW=\dimen353
-\pst@customdefs=\toks71
-\pslinearc=\dimen354
-\pst@symbolStep=\dimen355
-\pst@symbolWidth=\dimen356
-\pst@symbolLinewidth=\dimen357
-\everypsbox=\toks72
-\psframesep=\dimen358
-\pslabelsep=\dimen359
-\sh@wgridXunit=\dimen360
-\sh@wgridYunit=\dimen361
-\pst@shift=\dimen362
+\pslinewidth=\dimen352
+\psk@startLW=\dimen353
+\psk@endLW=\dimen354
+\pst@customdefs=\toks73
+\pslinearc=\dimen355
+\pst@symbolStep=\dimen356
+\pst@symbolWidth=\dimen357
+\pst@symbolLinewidth=\dimen358
+\everypsbox=\toks74
+\psframesep=\dimen359
+\pslabelsep=\dimen360
+\sh@wgridXunit=\dimen361
+\sh@wgridYunit=\dimen362
+\pst@shift=\dimen363
 
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"
@@ -2075,7 +2136,7 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
  v1.42, 2010/05/14 <tvz>
 \multido@count=\count546
 \multidocount=\count547
-\multido@stuff=\toks73
+\multido@stuff=\toks75
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -2098,45 +2159,45 @@ Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-arrow\pst-arrow.tex"
 `pst-arrow' v0.01, 2016/09/01 (dr,hv)
-\pshooklength=\dimen363
-\pshookwidth=\dimen364
+\pshooklength=\dimen364
+\pshookwidth=\dimen365
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-3d\pst-3d.tex"
 `PST-3d' v1.11, 2010/02/14 (tvz))
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-math\pst-math.tex"
 `pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.85a, 2018/02/03 (dr,hv)
-\psparallelogramsep=\dimen365
+\psparallelogramsep=\dimen366
 \pst@cntC=\count554
 \pst@stepcount=\count555
-\chart@ColorIndex=\dimen366
-\chart@ColorStep=\dimen367
-\pst@chartHeight=\dimen368
-\pst@chartStackDepth=\dimen369
-\pst@chartStackWidth=\dimen370
+\chart@ColorIndex=\dimen367
+\chart@ColorStep=\dimen368
+\pst@chartHeight=\dimen369
+\pst@chartStackDepth=\dimen370
+\pst@chartStackWidth=\dimen371
 \chart@Toggle=\count556
 \psVectorCtr=\count557
 )
  v1.90, 2018/03/28 (tvz,hv)
-\pstRadUnit=\dimen371
-\pstRadUnitInv=\dimen372
+\pstRadUnit=\dimen372
+\pstRadUnitInv=\dimen373
 \pst@linecnt=\count558
 \RCD@file=\read5
-\psxlabelsep=\dimen373
-\psylabelsep=\dimen374
-\psk@subticksize=\dimen375
-\pst@xticksizeA=\dimen376
-\pst@xticksizeB=\dimen377
-\pst@xticksizeC=\dimen378
-\pst@yticksizeA=\dimen379
-\pst@yticksizeB=\dimen380
-\pst@yticksizeC=\dimen381
+\psxlabelsep=\dimen374
+\psylabelsep=\dimen375
+\psk@subticksize=\dimen376
+\pst@xticksizeA=\dimen377
+\pst@xticksizeB=\dimen378
+\pst@xticksizeC=\dimen379
+\pst@yticksizeA=\dimen380
+\pst@yticksizeB=\dimen381
+\pst@yticksizeC=\dimen382
 \@digitcounter=\count559
-\psk@llx=\dimen382
-\psk@lly=\dimen383
-\psk@urx=\dimen384
-\psk@ury=\dimen385
-\pst@xunit=\dimen386
-\pst@yunit=\dimen387
+\psk@llx=\dimen383
+\psk@lly=\dimen384
+\psk@urx=\dimen385
+\psk@ury=\dimen386
+\pst@xunit=\dimen387
+\pst@yunit=\dimen388
 )
 File: pst-plot.tex 2018/03/28 1.90 `pst-plot' (tvz,hv)
 )
@@ -2191,31 +2252,31 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 s.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box122
-\pgfnodeparttwobox=\box123
-\pgfnodepartthreebox=\box124
-\pgfnodepartfourbox=\box125
-\pgfnodeparttwentybox=\box126
-\pgfnodepartnineteenbox=\box127
-\pgfnodeparteighteenbox=\box128
-\pgfnodepartseventeenbox=\box129
-\pgfnodepartsixteenbox=\box130
-\pgfnodepartfifteenbox=\box131
-\pgfnodepartfourteenbox=\box132
-\pgfnodepartthirteenbox=\box133
-\pgfnodeparttwelvebox=\box134
-\pgfnodepartelevenbox=\box135
-\pgfnodeparttenbox=\box136
-\pgfnodepartninebox=\box137
-\pgfnodeparteightbox=\box138
-\pgfnodepartsevenbox=\box139
-\pgfnodepartsixbox=\box140
-\pgfnodepartfivebox=\box141
+\pgfnodepartlowerbox=\box126
+\pgfnodeparttwobox=\box127
+\pgfnodepartthreebox=\box128
+\pgfnodepartfourbox=\box129
+\pgfnodeparttwentybox=\box130
+\pgfnodepartnineteenbox=\box131
+\pgfnodeparteighteenbox=\box132
+\pgfnodepartseventeenbox=\box133
+\pgfnodepartsixteenbox=\box134
+\pgfnodepartfifteenbox=\box135
+\pgfnodepartfourteenbox=\box136
+\pgfnodepartthirteenbox=\box137
+\pgfnodeparttwelvebox=\box138
+\pgfnodepartelevenbox=\box139
+\pgfnodeparttenbox=\box140
+\pgfnodepartninebox=\box141
+\pgfnodeparteightbox=\box142
+\pgfnodepartsevenbox=\box143
+\pgfnodepartsixbox=\box144
+\pgfnodepartfivebox=\box145
 )))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks74
-\verbatim@line=\toks75
+\every@verbatim=\toks76
+\verbatim@line=\toks77
 \verbatim@in@stream=\read6
 )
 (misc/javascript.tex) (misc/html5.tex))
@@ -2295,7 +2356,7 @@ LaTeX Font Info:    ... okay on input line 33.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box142
+\AtBeginShipoutBox=\box146
 Package hyperref Info: Link coloring OFF on input line 33.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\hyperref\nameref.sty"
@@ -2325,41 +2386,41 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 \symnumbers=\mathgroup8
 \sympureletters=\mathgroup9
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmr/m/n on input line 33.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 33.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmss/bx/n on input line 33.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/lmss/bx/n on input line 33.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 33.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 33.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/m/n on input line 33.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 33.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmss/m/it on input line 33.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> TU/lmss/m/it on input line 33.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 33.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 33.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 33.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 33.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/bx/n on input line 33.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 33.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/bx/it on input line 33.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmr/bx/n on input line 33.
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/bx/n --> TU/lmss/bx/n on input line 33.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/bx/n on input line 33.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/bx/it on input line 33.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/bx/n on input line 33.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 33.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\translator\translator-basic-dictionary
 -English.dict"
@@ -2401,18 +2462,23 @@ Package biblatex Info: Reference segment=0 on input line 33.
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 
-Overfull \hbox (42.0pt too wide) in paragraph at lines 33--33
+Overfull \hbox (44.625pt too wide) in paragraph at lines 33--33
  []| []
  []
 
 
-LaTeX Font Warning: Font shape `TU/lmss/bx/sc' undefined
-(Font)              using `TU/lmss/bx/n' instead on input line 33.
+LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
+(Font)              using `T1/lmss/bx/n' instead on input line 33.
 
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 36.
+("E:\Master1 RSD\Memoire\latex\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 
-LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <14.4> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 36.
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 36.
 
+Missing character: There is no ’ in font ec-lmss8!
 File: resources/logo.png Graphic file (type bmp)
 <resources/logo.png>
 LaTeX Font Info:    Try loading font information for OT1+lmss on input line 36.
@@ -2461,12 +2527,12 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 LaTeX Font Info:    Try loading font information for U+stmry on input line 36.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\stmaryrd\ustmry.fd")
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
  [1
 
 \openout7 = `main.ist'.
@@ -2476,11 +2542,11 @@ Package cleveref Info: loaded `german language definitions on input line 3.
 Package cleveref Info: loaded `german language definitions on input line 5.
 
 
-LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <12> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 7.
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 7.
 
 )
-Overfull \hbox (5.21857pt too wide) in paragraph at lines 40--40
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 40--40
 [][][][]  
  []
 
@@ -2511,6 +2577,8 @@ and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 1.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 1.
 [3
 
 ]
@@ -2518,17 +2586,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 15.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 15.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 15.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 15.
 
-Overfull \hbox (5.21857pt too wide) in paragraph at lines 15--15
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 15--15
 [][][][]  
  []
 
 
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2562,12 +2630,12 @@ and I'll forget about whatever was undefined.
 [5
 
 ]
-Overfull \hbox (5.21857pt too wide) in paragraph at lines 14--14
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
 [][][][]  
  []
 
 
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2601,12 +2669,12 @@ and I'll forget about whatever was undefined.
 [7
 
 ]
-Overfull \hbox (5.21857pt too wide) in paragraph at lines 14--14
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
 [][][][]  
  []
 
 
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2640,12 +2708,12 @@ and I'll forget about whatever was undefined.
 [9
 
 ]
-Overfull \hbox (5.21857pt too wide) in paragraph at lines 14--14
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
 [][][][]  
  []
 
 
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2654,7 +2722,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [10
 
 ])
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2663,7 +2731,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [11
 
 ]
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2672,7 +2740,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [12
 
 ]
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2681,7 +2749,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [13
 
 ]
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2690,7 +2758,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [14
 
 ]
-Overfull \hbox (42.0pt too wide) has occurred while \output is active
+Overfull \hbox (44.625pt too wide) has occurred while \output is active
  []| []
  []
 
@@ -2699,6 +2767,10 @@ File: resources/graphD.png Graphic file (type bmp)
 [15
 
 ]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\part' on input line 60.
+
 \tf@nav=\write10
 \openout10 = `main.nav'.
 
@@ -2707,7 +2779,6 @@ File: resources/graphD.png Graphic file (type bmp)
 
 \tf@snm=\write12
 \openout12 = `main.snm'.
-
 
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
@@ -2733,12 +2804,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59736 strings out of 427798
- 1152997 string characters out of 3151608
- 1874740 words of memory out of 3000000
- 62750 multiletter control sequences out of 15000+200000
- 562417 words of font info for 105 fonts, out of 3000000 for 9000
+ 59851 strings out of 427798
+ 1154067 string characters out of 3151608
+ 1876312 words of memory out of 3000000
+ 62875 multiletter control sequences out of 15000+200000
+ 639272 words of font info for 107 fonts, out of 3000000 for 9000
  1330 hyphenation exceptions out of 8191
- 61i,20n,85p,2009b,3584s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,20n,85p,2009b,3584s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.pdf (15 pages).

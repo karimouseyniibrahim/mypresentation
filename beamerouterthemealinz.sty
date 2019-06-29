@@ -131,22 +131,22 @@
         \end{beamercolorbox}
     }%
 }
-\newlength{\metropolis@progressonsectionpage}
-\newlength{\metropolis@progressonsectionpage@linewidth}
-\setlength{\metropolis@progressonsectionpage@linewidth}{1.5pt}
+\newlength{\progressonsectionpage}
+\newlength{\linewidthone}
+\setlength{\linewidthone}{1.5pt}
 \setbeamertemplate{progress bar in section page}{
-	\setlength{\metropolis@progressonsectionpage}{%
+	\setlength{\progressonsectionpage}{%
 		\textwidth * \ratio{\insertframenumber pt}{\inserttotalframenumber pt}%
 	}%
 	\tikzexternaldisable%
 	\begin{tikzpicture}
-	\fill[bg] (0,0) rectangle (\textwidth, \metropolis@progressonsectionpage@linewidth);
-	\fill[fg] (0,0) rectangle (\metropolis@progressonsectionpage, \metropolis@progressonsectionpage@linewidth);
+	\fill[bg] (0,0) rectangle (\textwidth, \linewidthone);
+	\fill[fg] (0,0) rectangle (\progressonsectionpage, \linewidthone);
 	\end{tikzpicture}%
 	\tikzexternalenable%
 }
 
-\AtBeginSection[]{
+\AtBeginSection{
 	\ifbeamer@inframe
 	\sectionpage
 	\else
