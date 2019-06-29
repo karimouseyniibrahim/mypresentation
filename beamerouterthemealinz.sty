@@ -113,6 +113,9 @@
 			\insertshortdate
 		\end{beamercolorbox}%
 		\begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex,right]{footlinepage}%
+
+				\includegraphics[width=0.5\linewidth]{resources/graphD}				
+
 			\insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
 	\end{beamercolorbox}}%
 }
@@ -151,7 +154,7 @@
 		 \centering
 		\begin{minipage}{22em}
 			\raggedright
-			{\huge\bfseries \insertsectionhead}\\[-1ex]
+			{\huge\bfseries \thesection . \insertsectionhead}\\[-1ex]
 			\usebeamertemplate*{progress bar in section page}
 			\par
 			\ifx\insertsubsectionhead\@empty\else%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  29 JUN 2019 06:38
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  29 JUN 2019 07:07
 entering extended mode
 **./main.tex
 (main.tex
@@ -2398,6 +2398,9 @@ Package biblatex Info: Reference section=0 on input line 33.
 Package biblatex Info: Reference segment=0 on input line 33.
 \c@lstlisting=\count562
  (main.nav)
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+
 Overfull \hbox (42.0pt too wide) in paragraph at lines 33--33
  []| []
  []
@@ -2529,6 +2532,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [4
 
 ]) (problematique.tex
@@ -2566,6 +2571,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [6
 
 ]) (contibution.tex
@@ -2603,6 +2610,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [8
 
 ]) (conclusion.tex
@@ -2640,6 +2649,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [10
 
 ])
@@ -2647,6 +2658,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [11
 
 ]
@@ -2654,6 +2667,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [12
 
 ]
@@ -2661,6 +2676,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [13
 
 ]
@@ -2668,6 +2685,8 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [14
 
 ]
@@ -2675,9 +2694,9 @@ Overfull \hbox (42.0pt too wide) has occurred while \output is active
  []| []
  []
 
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
 [15
-
-] [16
 
 ]
 \tf@nav=\write10
@@ -2695,14 +2714,14 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
 (main.aux
 Package cleveref Info: loaded `german language definitions on input line 37.
 Package cleveref Info: loaded `german language definitions on input line 41.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 63.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 63.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9C180E49415B678D1CF3F1A8FB240450.
 
@@ -2715,11 +2734,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  59736 strings out of 427798
- 1152982 string characters out of 3151608
- 1874745 words of memory out of 3000000
- 62751 multiletter control sequences out of 15000+200000
+ 1152997 string characters out of 3151608
+ 1874740 words of memory out of 3000000
+ 62750 multiletter control sequences out of 15000+200000
  562417 words of font info for 105 fonts, out of 3000000 for 9000
  1330 hyphenation exceptions out of 8191
  61i,20n,85p,2009b,3584s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (15 pages).
