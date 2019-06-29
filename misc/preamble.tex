@@ -1,0 +1,162 @@
+%
+% XeTeX specific
+%
+%\RequireXeTeX
+%\usepackage{xltxtra}
+%\usepackage{fontspec}
+%\usepackage{xunicode}
+
+% -----------------------------------
+% font config
+% -----------------------------------
+
+%\setsansfont{Linux Biolinum}
+%\setromanfont{Linux Libertine}
+%\setmonofont[Scale=0.9]{Consolas}
+
+% -----------------------------------
+% math
+% -----------------------------------
+\usepackage{lmodern}
+
+\usepackage[utf8]{inputenc} % this is needed for german umlauts
+\usepackage[ngerman]{babel} % this is needed for german umlauts
+\usepackage[T1]{fontenc}    % this is needed for correct output of umlauts in pdf
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathrsfs}   % \mathscr
+\usepackage{stmaryrd}   % \lightning
+
+% -----------------------------------
+% grammar and textstyle
+% -----------------------------------
+
+\usepackage{polyglossia}
+\setdefaultlanguage{german}
+\usepackage{csquotes}
+% underlining
+\usepackage{soul} % ulem redifines \emph, this sucks
+
+% -----------------------------------
+% colors
+% -----------------------------------
+
+\usepackage{xcolor}
+\usepackage{colortbl}
+
+% listing colors
+% https://kuler.adobe.com/Color-palette-color-theme-4004722
+\definecolor{keyword}{RGB}{239,33,74}
+\definecolor{number}{RGB}{243,202,22}
+\definecolor{comment}{RGB}{126,158,19}
+\definecolor{string}{RGB}{6,129,128}
+\usepackage{fontawesome}
+ 
+
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows}
+\usepackage{animate}
+\usepackage{graphicx}
+% -----------------------------------
+% links and references
+% -----------------------------------
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=false,
+    % hide bookmarks
+    pdfpagemode=UseNone,
+    % meta
+    pdfauthor={\presentationAuthor},
+    pdftitle={\presentationTitle}
+}
+\usepackage[german]{cleveref}
+
+% -----------------------------------
+% bibliography and glossaries
+% -----------------------------------
+
+\usepackage[
+    backend=biber,
+    style=alphabetic-verb
+    ]{biblatex}
+\bibliography{presentation}
+
+\usepackage{glossaries}
+\input{glossary}
+\makeglossaries
+
+% -----------------------------------
+% graphics
+% -----------------------------------
+
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, shadows, positioning}
+\usepackage{adforn} % ornaments, used in titlepage
+\usepackage{multicol}
+% -----------------------------------
+% beamer theme
+% -----------------------------------
+
+% you can't locate the theme in a subfolder without shooting yourself in the knee
+\usetheme{alinz}
+
+% -----------------------------------
+% listings and pseudocode
+% -----------------------------------
+
+\Crefname{lstlisting}{Listing}{Listings}
+\crefname{lstlisting}{listing}{listings}
+
+\usepackage{listings}
+\lstset{
+    basicstyle=\footnotesize\ttfamily\color{lightdark},
+    backgroundcolor=\color{blockbg},
+    numbers=left,
+    %numbersep=6pt,
+    numberstyle=\scriptsize\color{granite},
+    commentstyle=\sffamily\itshape\color{sea},
+    keywordstyle=\bfseries\color{raspberry},
+    stringstyle=\itshape\color{lake},
+    showstringspaces=false,
+    breaklines=true,
+    breakatwhitespace=true,
+    frame=lr,
+    framerule=0pt,
+    framesep=6pt,
+    captionpos=b
+}
+% for pseudocode
+\usepackage[slide,linesnumbered,algoruled]{algorithm2e}
+\usepackage{pst-plot}
+\usepackage{pst-solides3d}
+\xdefinecolor{pgold}{rgb}{0.8,0.6,0.2}
+
+\psset{viewpoint=50 20 10 rtp2xyz,Decran=50,linewidth=0.5\pslinewidth}
+% These next six lines declare a new beamerboxes environment
+%\setbeamercolor{uppercol}{ffg=blocktitlefg, bg=titlebg}
+\setbeamercolor{lowercol}{fg=lightdark, bg=blockbg}
+\newenvironment{colorblock}
+{
+	\begin{beamerboxesrounded}[lower=lowercol,shadow=true]}
+	{\end{beamerboxesrounded}}
+
+\usetikzlibrary{arrows,shapes}
+\usepackage{verbatim}
+% Define some styles for graphs
+\tikzstyle{vertex}=[circle,fill=black!25,minimum size=20pt,inner sep=0pt]
+\tikzstyle{selected vertex} = [vertex, fill=red!24]
+\tikzstyle{blue vertex} = [vertex, fill=blue!24]
+\tikzstyle{edge} = [draw,thick,-]
+\tikzstyle{weight} = [font=\small]
+\tikzstyle{selected edge} = [draw,line width=5pt,-,red!50]
+\tikzstyle{ignored edge} = [draw,line width=5pt,-,black!20]
+
+
+\input{misc/javascript}
+\input{misc/html5}
+

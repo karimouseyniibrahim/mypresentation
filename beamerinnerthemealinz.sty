@@ -1,0 +1,92 @@
+\mode<presentation>
+
+% -----------------------------------
+% title page
+% -----------------------------------
+
+% define the meta stuff for the titelframe
+\title[\shortTitle]{\presentationTitle{}}
+%\subtitle{\presentationSubtitle}
+\institute[]{
+    {\large \textsc{\textbf{\university{}}}}
+    \par\medskip
+    {\tiny \universityDepartment{} \textemdash{} \universityCourse{}}
+}
+\author[\presentationAuthorShort]{\presentationAuthor}
+\titlegraphic{\includegraphics[width=30mm]{resources/logo}} % logo
+\date{\today}
+\subject{\presentationSubject}
+\keywords{\presentationKeywords{}}
+
+\def\@jurya{}{}{}
+\newcommand{\jurya}[3]{
+	\def\@jurya{#1,	& #2	& #3\\}
+}
+\def\@juryb{}{}{}
+\newcommand{\juryb}[3]{
+	\def\@juryb{#1,	& #2	& #3\\}
+}
+
+% customized title page layout
+\defbeamertemplate*{title page}{customized}[1][]
+{
+	
+     \centering
+    \par
+    \usebeamercolor[fg]{normal text}
+    \usebeamerfont{institute}{\usebeamercolor[fg]{institute}\insertinstitute}\par
+    \resizebox{!}{1.5cm}{\inserttitlegraphic}
+    \vspace{0.2cm}
+
+    \begin{beamercolorbox}[wd=\paperwidth,sep=4pt,center,#1]{titlepage-headline}
+    {
+        \usebeamerfont{title}{\inserttitle}         
+    }
+    \end{beamercolorbox}
+
+        \usebeamercolor[fg]{normal text}
+        
+\vspace{0.5cm}
+
+    { \begin{tabular}{>{\bfseries}llr}
+    	 Présenté par: \presentationAuthor\\\\
+    	 Encadrés par\\
+    		  \@jurya
+    		  \@juryb
+    	\end{tabular}  
+    \vfill
+    \begin{center}
+    	\usebeamerfont{date}\insertdate
+    \end{center}     
+    }
+
+}
+
+	
+
+% -----------------------------------
+% enumerations and itemize
+% -----------------------------------
+
+\setbeamertemplate{itemize item}{\footnotesize\raise1pt\hbox{$\blacktriangleright$}}
+\setbeamertemplate{itemize subitem}{\scriptsize\raise1pt\hbox{$\vartriangleright$}}
+\setbeamertemplate{itemize subsubitem}{\tiny\raise1pt\hbox{$\bullet$}}
+\setbeamertemplate{enumerate item}{\rmfamily\itshape\insertenumlabel.}
+
+% -----------------------------------
+% bibliography
+% -----------------------------------
+
+% remove those ugly beamer bibliography icons
+\setbeamertemplate{bibliography item}{$\blacktriangleright$}
+
+% -----------------------------------
+% table of contents
+% -----------------------------------
+
+\setbeamertemplate{section in toc}[sections numbered]
+\setbeamertemplate{subsection in toc}[subsections numbered]
+% \setbeamertemplate{subsubsection in toc}[subsubsections numbered]
+% subsubsection should'nt been used in a presentation in the first place
+
+\mode<all>

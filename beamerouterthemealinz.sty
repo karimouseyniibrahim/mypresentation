@@ -1,0 +1,171 @@
+
+\mode<presentation>
+\newif\ifbeamer@menutop
+\beamer@menutopfalse
+\DeclareOptionBeamer{menutop}{\beamer@menutoptrue}
+
+
+% -----------------------------------
+% outer theme config
+% -----------------------------------
+
+% http://tex.stackexchange.com/questions/38208/beamer-create-own-headline-theme
+%
+% !!! Commented linebreaks are (mostly) necessary !!!
+%
+\def\insertnavigation#1{%
+	\vbox{{%
+			\usebeamerfont{section in head/foot}\usebeamercolor[fg]{section in head/foot}%
+			\beamer@xpos=0\relax%
+			\beamer@ypos=1\relax%
+			\hbox to #1{\hskip.2cm\setbox\beamer@sectionbox=\hbox{\kern0.5sp}%
+				\ht\beamer@sectionbox=1.25ex%
+				\dp\beamer@sectionbox=0.75ex%
+				\hskip.2cm%
+				\global\beamer@section@min@dim\z@
+				\dohead%
+				\beamer@section@set@min@width
+				\box\beamer@sectionbox\hfill\hskip.2cm}%
+}}}
+
+\setbeamertemplate{headline}
+{%
+  %  \leavevmode%
+  % \begin{beamercolorbox}[wd=\paperwidth,ht=1.75ex,dp=2.75ex]{navigationline}
+  %  	\insertnavigation{\paperwidth}
+  %  \end{beamercolorbox}
+
+  %  \hbox{%
+%\vfill
+ %       \begin{beamercolorbox}[wd=\paperwidth,ht=5.7ex,dp=2.2ex]{headline}%
+ %           \raggedright\hspace*{2em}%
+%            {%
+ %               \ifx\insertsection\empty\relax
+ %               \else
+ %                   \ifx\insertsubsection\empty
+ %                       \raise1pt\hbox{\normalsize\thesection.\enspace\insertsection}%
+ %                   \else
+  %                      \raise1pt\hbox{\normalsize\thesection.{\footnotesize\thesubsection}.\enspace\normalsize\insertsubsection}%
+ %                   \fi
+%                \fi
+%                \hfill%
+%                {%
+                   % \normalsize%
+                   % \raise1pt\hbox{%
+                   %     \raise2pt\hbox{\insertframenumber}\color{gray}{fg/}%
+                   %     \raise-2pt\hbox{\inserttotalframenumber}
+                   % }
+%                }%
+%            }%
+%            \hspace*{2em}%
+ %       \end{beamercolorbox}%
+ %   }%
+}
+
+% Setzt Deep Harlequin (dunkler)  
+\definecolor{jvagreen}{RGB}{22, 89, 0}
+
+% Setzt Vivid Gold (dunkler)
+\definecolor{jvagold}{RGB}{231, 202, 0}
+
+% Farbe der Elemente der headline
+\setbeamercolor{section in head/foot}{fg = gray!20, bg=black!90}
+
+% Komprimiert die miniframe Kreise auf eine Linie
+\beamer@compresstrue
+
+
+% Definiert die headline
+\setbeamertemplate{headline}
+{ 
+	\usebeamercolor{seperation line}
+	% Bindet die Grafik ein
+	\begin{beamercolorbox}[wd=\paperwidth,right,ht=5.25ex,dp=1ex]{headline-progress}
+		\rule{0.75\paperwidth}{0.2pt}
+		%Vertikaler Abstand
+		\vskip0.1pt
+		%Fügt die Standard-Navi ein (miniframes)
+	\hspace*{7em}\insertnavigation{\paperwidth} 
+		\rule{0.75\paperwidth}{0.2pt} 
+	\end{beamercolorbox}  
+	\begin{beamercolorbox}[wd=\paperwidth,right,ht=4.25ex,dp=1ex]{headline}
+		\raggedright\hspace*{0em}%
+	            \bfseries\normalsize \thesection .\enspace {\insertsection}\\
+	            \thesection.{\footnotesize\thesubsection}.\enspace\bfseries\scshape\insertsubsection
+	\end{beamercolorbox} 
+	 
+}
+
+\setbeamertemplate{footline}
+{
+	\leavevmode%
+	\hbox{%
+		\begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,center]{footline}%
+			\usebeamerfont{title in head/foot}%
+			\insertshortauthor 
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.6\paperwidth,ht=2.25ex,dp=1ex,center]{footline}%
+			\usebeamerfont{title in head/foot}%
+			\insertshorttitle
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,center]{footline}%
+			\usebeamerfont{title in head/foot}%
+			\insertshortdate
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex,right]{footlinepage}%
+			\insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+	\end{beamercolorbox}}%
+}
+
+% custom frame title
+\setbeamertemplate{frametitle}
+{
+    \vskip-5pt
+    \leavevmode
+    \hbox{%
+        \begin{beamercolorbox}[wd=\paperwidth, ht=1.3ex, dp=0.5ex]{frametitle}%
+            {\usebeamerfont{frametitle}\usebeamercolor[fg]{frametitle}\footnotesize \insertframetitle}%
+        \end{beamercolorbox}
+    }%
+}
+\newlength{\metropolis@progressonsectionpage}
+\newlength{\metropolis@progressonsectionpage@linewidth}
+\setlength{\metropolis@progressonsectionpage@linewidth}{1.5pt}
+\setbeamertemplate{progress bar in section page}{
+	\setlength{\metropolis@progressonsectionpage}{%
+		\textwidth * \ratio{\insertframenumber pt}{\inserttotalframenumber pt}%
+	}%
+	\tikzexternaldisable%
+	\begin{tikzpicture}
+	\fill[bg] (0,0) rectangle (\textwidth, \metropolis@progressonsectionpage@linewidth);
+	\fill[fg] (0,0) rectangle (\metropolis@progressonsectionpage, \metropolis@progressonsectionpage@linewidth);
+	\end{tikzpicture}%
+	\tikzexternalenable%
+}
+
+\AtBeginSection[]{
+	\ifbeamer@inframe
+	\sectionpage
+	\else
+		\begin{frame}[plain,c,noframenumbering]
+		 \centering
+		\begin{minipage}{22em}
+			\raggedright
+			{\huge\bfseries \insertsectionhead}\\[-1ex]
+			\usebeamertemplate*{progress bar in section page}
+			\par
+			\ifx\insertsubsectionhead\@empty\else%
+			\usebeamercolor[fg]{subsection title}%
+			\usebeamerfont{subsection title}%
+			\insertsubsectionhead
+			\fi
+		\end{minipage}
+		\par
+		\vspace{\baselineskip}	
+		\end{frame}
+	\fi
+}
+
+%    \end{macrocode}
+% \end{macro}
+\mode<all>
