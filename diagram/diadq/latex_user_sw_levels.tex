@@ -88,25 +88,64 @@
 	(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Espaces d'états}};	
 	\end{scope}
 
-		\begin{scope}[
-		yshift=-220,
+	\begin{scope}[
+	yshift=-20,
+	xshift=200,
+	every node/.append style={yslant=\yslant,xslant=\xslant},
+	yslant=\yslant,xslant=\xslant
+	] 
+	% The lower frame:
+	\draw[dashed, thick,green] (-3,0) rectangle (3,4.8); 
+	% Agents:
+	\draw[fill=green]  
+	(-2,2) circle (.1); % .tex file
+	\draw[thick](-2,2	) -> (-7,-2);
+	% Flows:
+	\node[anchor=south,inner sep=0,xshift=1pt,yshift=-10pt,fill=white] at (0,1)
+	{\includegraphics[width=4cm]{proposition}};
+	
+	% Labels:
+	\fill[black]
+	(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Model checking}};	
+	\end{scope}
+
+
+	\begin{scope}[
+		yshift=-100,
+		xshift=250,
 		every node/.append style={yslant=\yslant,xslant=\xslant},
 		yslant=\yslant,xslant=\xslant
 		] 
 		% The lower frame:
-		\draw[dashed, thick,red] (-3,0) rectangle (3,4.8); 
+		\draw[dashed, thick,fill=red,red] (-1,0) rectangle (1,1); 
 		% Agents:
-		\draw[fill=red]  
-		(1.7,5.6) circle (.1); % .tex file
-		% Flows:
-		\node[anchor=south,inner sep=0,xshift=2pt,yshift=-5pt,fill=white] at (0,1)
-		{\includegraphics[width=4cm]{etats}};
+		\draw[black,fill=black]  
+		(0,4) circle (.1); % .tex file
+		\draw[thick,red](0,4) -> (0,0);
+	
 		
 		% Labels:
 		\fill[black]
-		(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Espaces d'états}};	
-		\end{scope}
+		(0,0) node[above=-3pt, scale=0.9] {\textsf{\bfseries NON}};	
+	\end{scope}
 
+	\begin{scope}[
+yshift=-150,
+xshift=150,
+every node/.append style={yslant=\yslant,xslant=\xslant},
+yslant=\yslant,xslant=\xslant
+] 
+% The lower frame:
+\draw[dashed, thick,fill=green,green] (-1,0) rectangle (1,1); 
+% Agents:
+  
+\draw[thick,green](3.5,4) -> (0,0);
+
+
+% Labels:
+\fill[black]
+(0,0) node[above=-3pt, scale=0.9] {\textsf{\bfseries OUI}};	
+\end{scope}
 
 \end{tikzpicture}
 \end{document}
