@@ -81,17 +81,17 @@
 	\usebeamercolor{seperation line}
 	% Bindet die Grafik ein
 	\begin{beamercolorbox}[wd=\paperwidth,right,ht=5.25ex,dp=1ex]{headline-progress}
-		\rule{0.75\paperwidth}{0.2pt}
+		\rule{\paperwidth}{0.2pt}
 		%Vertikaler Abstand
 		\vskip0.1pt
 		%Fügt die Standard-Navi ein (miniframes)
-	\hspace*{7em}\insertnavigation{\paperwidth} 
-		\rule{0.75\paperwidth}{0.2pt} 
+	\insertnavigation{\paperwidth} 
+		\rule{\paperwidth}{0.2pt} 
 	\end{beamercolorbox}  
 	\begin{beamercolorbox}[wd=\paperwidth,right,ht=4.25ex,dp=1ex]{headline}
 		\raggedright\hspace*{0em}%
-	            \bfseries\normalsize \thesection .\enspace {\insertsection}\\
-	            \thesection.{\footnotesize\thesubsection}.\enspace\bfseries\scshape\insertsubsection
+	            \bfseries\normalsize \thesection .\enspace {\insertsection}
+	            %\thesection.{\footnotesize\thesubsection}.\enspace\bfseries\scshape\insertsubsection
 	\end{beamercolorbox} 
 	 
 }
@@ -127,7 +127,7 @@
     \leavevmode
     \hbox{%
         \begin{beamercolorbox}[wd=\paperwidth, ht=1.3ex, dp=0.5ex]{frametitle}%
-            {\usebeamerfont{frametitle}\usebeamercolor[fg]{frametitle}\footnotesize \insertframetitle}%
+            {\usebeamerfont{frametitle}\usebeamercolor[fg]{frametitle}\footnotesize\thesection.{\footnotesize\thesubsection}.\enspace\bfseries\scshape\insertsubsection}%
         \end{beamercolorbox}
     }%
 }

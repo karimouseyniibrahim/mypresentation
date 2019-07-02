@@ -1,0 +1,112 @@
+% Interaction diagram, LaTeX user level and TeX system software level
+% Author: Agostino De Marco
+% Based on diagram from Marco Miani and Pascal Seppecher.
+\documentclass{article}
+\usepackage{tikz}
+%%%<
+\usepackage{verbatim}
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{5pt}%
+%%%>
+\usetikzlibrary{positioning}
+
+\newcommand{\yslant}{0.5}
+\newcommand{\xslant}{-0.6}
+\begin{document}
+\begin{tikzpicture}[scale=1.1,every node/.style={minimum size=1cm},on grid]
+
+	% system level
+	\begin{scope}[
+		yshift=-120,
+		every node/.append style={yslant=\yslant,xslant=\xslant},
+		yslant=\yslant,xslant=\xslant
+	] 
+		% The lower frame:
+		\draw[black, dashed, thick] (-3,0) rectangle (3,4.8); 
+		% Agents:
+		\draw[fill=red]  
+			(-0.5,2) circle (.1); % .tex file
+		% Flows:
+		\node[anchor=south,inner sep=0,xshift=2pt,yshift=-5pt,fill=white] at (0,2)
+		{\includegraphics[width=4cm]{petri}};
+		
+		 % Labels:
+		\fill[black]
+			(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Spécification du système}};	
+	\end{scope}
+	
+	% vertical lines for linking agents on the 2 levels
+
+	\draw[thick](-1.70,1.02) to[out=90,in=-90] (-1.70,-1);
+	
+	% User level
+	\begin{scope}[
+		yshift=0,
+		every node/.append style={yslant=\yslant,xslant=\xslant},
+		yslant=\yslant,xslant=\xslant
+	]
+		% The upper frame:
+		\fill[white,fill opacity=.70] (-3.1,0) rectangle (3,6); % Opacity
+		\draw[black, dashed, thick] (-3.1,0) rectangle (3,6); 
+		 % Agents:
+		\draw [fill=red]
+			(-0.5,2) circle (.1); % .tex file
+
+		% the icons
+		\node[anchor=south,inner sep=0,xshift=-20pt,yshift=10pt,fill=white] at (1,2)
+			{\includegraphics[width=4cm]{Ariane_5}};
+
+		\fill[black]
+			(-2,6) node[below right,,xshift=-20pt,yshift=-5pt,scale=.9,text width=2.5cm,align=left,fill=white]
+				{\textsf{\bfseries \mbox{Système réel}}}		
+		;
+	\end{scope} 
+	
+		% vertical lines for linking agents on the 2 levels
+	
+	 \draw[thick](-1.70,-3	) -> (-1.70,-5);
+	
+	
+		% system level
+	\begin{scope}[
+	yshift=-220,
+	every node/.append style={yslant=\yslant,xslant=\xslant},
+	yslant=\yslant,xslant=\xslant
+	] 
+	% The lower frame:
+	\draw[dashed, thick,red] (-3,0) rectangle (3,4.8); 
+	% Agents:
+	\draw[fill=red]  
+	(1.7,5.6) circle (.1); % .tex file
+	% Flows:
+	\node[anchor=south,inner sep=0,xshift=2pt,yshift=-5pt,fill=white] at (0,1)
+	{\includegraphics[width=4cm]{etats}};
+	
+	% Labels:
+	\fill[black]
+	(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Espaces d'états}};	
+	\end{scope}
+
+		\begin{scope}[
+		yshift=-220,
+		every node/.append style={yslant=\yslant,xslant=\xslant},
+		yslant=\yslant,xslant=\xslant
+		] 
+		% The lower frame:
+		\draw[dashed, thick,red] (-3,0) rectangle (3,4.8); 
+		% Agents:
+		\draw[fill=red]  
+		(1.7,5.6) circle (.1); % .tex file
+		% Flows:
+		\node[anchor=south,inner sep=0,xshift=2pt,yshift=-5pt,fill=white] at (0,1)
+		{\includegraphics[width=4cm]{etats}};
+		
+		% Labels:
+		\fill[black]
+		(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Espaces d'états}};	
+		\end{scope}
+
+
+\end{tikzpicture}
+\end{document}
