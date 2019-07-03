@@ -1,8 +1,11 @@
 % Interaction diagram, LaTeX user level and TeX system software level
 % Author: Agostino De Marco
 % Based on diagram from Marco Miani and Pascal Seppecher.
-\documentclass{article}
+\documentclass{beamer}
+\usepackage{subfiles}
+\usepackage{circuitikz}
 \usepackage{tikz}
+\usetikzlibrary{arrows,shapes.gates.logic.US,shapes.gates.logic.IEC,calc}
 %%%<
 \usepackage{verbatim}
 \usepackage[active,tightpage]{preview}
@@ -14,6 +17,8 @@
 \newcommand{\yslant}{0.5}
 \newcommand{\xslant}{-0.6}
 \begin{document}
+	\begin{frame}
+\setbeamercovered{dynamic}
 \begin{tikzpicture}[scale=1.1,every node/.style={minimum size=1cm},on grid]
 
 	% system level
@@ -22,8 +27,10 @@
 		every node/.append style={yslant=\yslant,xslant=\xslant},
 		yslant=\yslant,xslant=\xslant
 	] 
+	\only<2->
+	{
 		% The lower frame:
-		\draw[black, dashed, thick] (-3,0) rectangle (3,4.8); 
+	\draw[black, dashed, thick] (-3,0) rectangle (3,4.8); 
 		% Agents:
 		\draw[fill=red]  
 			(-0.5,2) circle (.1); % .tex file
@@ -33,13 +40,15 @@
 		
 		 % Labels:
 		\fill[black]
-			(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Spécification du système}};	
+			(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Spécification du système}};
+		}	
 	\end{scope}
 	
 	% vertical lines for linking agents on the 2 levels
-
+\only<2->
+{
 	\draw[thick](-1.70,1.02) to[out=90,in=-90] (-1.70,-1);
-	
+}
 	% User level
 	\begin{scope}[
 		yshift=0,
@@ -50,9 +59,11 @@
 		\fill[white,fill opacity=.70] (-3.1,0) rectangle (3,6); % Opacity
 		\draw[black, dashed, thick] (-3.1,0) rectangle (3,6); 
 		 % Agents:
+		 \only<2->
+		 {
 		\draw [fill=red]
 			(-0.5,2) circle (.1); % .tex file
-
+			}
 		% the icons
 		\node[anchor=south,inner sep=0,xshift=-20pt,yshift=10pt,fill=white] at (1,2)
 			{\includegraphics[width=4cm]{Ariane_5}};
@@ -64,7 +75,8 @@
 	\end{scope} 
 	
 		% vertical lines for linking agents on the 2 levels
-	
+\only<3->
+{	
 	 \draw[thick](-1.70,-3	) -> (-1.70,-5);
 	
 	
@@ -87,7 +99,9 @@
 	\fill[black]
 	(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Espaces d'états}};	
 	\end{scope}
-
+}
+\only<4->
+{
 	\begin{scope}[
 	yshift=-20,
 	xshift=200,
@@ -108,8 +122,9 @@
 	\fill[black]
 	(-1,4) node[above=-3pt, scale=0.9] {\textsf{\bfseries Model checking}};	
 	\end{scope}
-
-
+}
+\only<5->
+{
 	\begin{scope}[
 		yshift=-100,
 		xshift=250,
@@ -128,7 +143,9 @@
 		\fill[black]
 		(0,0) node[above=-3pt, scale=0.9] {\textsf{\bfseries NON}};	
 	\end{scope}
-
+}
+\only<6->
+{
 	\begin{scope}[
 yshift=-150,
 xshift=150,
@@ -146,6 +163,7 @@ yslant=\yslant,xslant=\xslant
 \fill[black]
 (0,0) node[above=-3pt, scale=0.9] {\textsf{\bfseries OUI}};	
 \end{scope}
-
+}
 \end{tikzpicture}
+\end{frame}
 \end{document}

@@ -1,0 +1,63 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{subfiles}
+\usepackage{circuitikz}
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes.gates.logic.US,shapes.gates.logic.IEC,calc}
+
+\begin{document}
+\begin{frame}
+
+\setbeamercovered{dynamic}
+
+\begin{tikzpicture}
+\path (0,0) rectangle (10,7); % Use this to set the dimensions to approximately the page size
+    \begin{scope}[shift={({1},{5})}]
+
+
+        \node(J) at (1,0) {$J$};
+        \node[nand gate US,draw,logic gate inputs = nnn,thick] at ($(J)+(2,0)$) (Nand1){};
+
+        \node(K) at ($(J)+(0,-2.5)$) {$K$};
+        \node[nand gate US, draw, logic gate inputs = nnn,thick] at ($(K)+(2,0)$) (Nand2) {};
+
+         \onslide<2>{\node(in1) at ($(J)+(0.5,0.5)$) {\textcolor{red}{\textbf{1}}} ;};
+        \onslide<3>{\node(in1) at ($(K)+(0.5,0.5)$) {\textcolor{red}{\textbf{0}}} ;};
+
+        \node[nand gate US, draw, logic gate inputs = nnn, thick,anchor=input 1] at ($(Nand1)+(3,0)$) (Nand3) {};
+        \node[nand gate US, draw, logic gate inputs = nnn, thick, anchor = input 3] at ($(Nand2)+(3,0)$) (Nand4) {};
+
+        \draw(J) |- (Nand1.input 2);
+        \draw(K) |- (Nand2.input 2);
+        \path (J) -- (K) node[midway] (CLK) {$CLK$};
+
+        \draw (Nand1.input 3) --++(180:5mm) coordinate (aux) |- (CLK);
+        \draw (CLK-|aux)|- (Nand2.input 1);
+
+        \draw(Nand1.output) |- (Nand3.input 1);
+        \draw(Nand2.output) |- (Nand4.input 3);
+
+        \draw (Nand3.output) -- ([xshift=2cm]Nand3.output);
+        \draw (Nand4.output) -- ([xshift=2cm]Nand4.output);
+
+        \draw (Nand3.output) --++(0:2cm) node[right](Q) {$Q_n$} coordinate[pos=.25] (aux1) coordinate[pos=.5] (aux2);
+        \draw (Nand4.output) --++(0:2cm) node[right] (QN) {$\overline{Q_n}$} coordinate[pos=.25] (aux3) coordinate[pos=.75] (aux4);
+
+        \onslide<2>{\node(out1) at ($(Q)+(0.5,0.5)$) {\textcolor{red}{\textbf{1}}} ;};
+        \onslide<2>{\node(out2) at ($(QN)+(0.5,0.5)$) {\textcolor{red}{\textbf{1}}} ;};
+
+        \draw (Nand2.input 3)--(Nand2.input 3-|aux)--++(-90:5mm)-|(aux2);
+        \draw (Nand1.input 1)--(Nand1.input 1-|aux)--++(90:5mm)-|(aux4);
+
+        \draw(Nand4.input 1) --++(180:5mm) --++(90:3mm) -- ([yshift = -3mm]aux1) --(aux1);
+        \draw(Nand3.input 3) --++(180:5mm) --++(-90:3mm) -- ([yshift = 3mm]aux3) --(aux3);
+
+        \foreach \i in {CLK-|aux,aux1,aux2,aux3,aux4}
+        \filldraw (\i) circle (1.5pt);
+    \end{scope}     
+\end{tikzpicture}
+
+
+
+\end{frame}
+\end{document}
