@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  3 JUL 2019 10:18
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  6 JUL 2019 18:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -1533,391 +1533,13 @@ ref, and there's no guarantee anything will work. You're on your own! on input
 line 2370.
 
 Package cleveref Info: `amsthm' support loaded on input line 3026.
-) ("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\logreq\logreq.sty"
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count359
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\logreq\logreq.def"
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-("E:\Master1 RSD\Memoire\latex\tex\latex\xstring\xstring.sty"
-("E:\Master1 RSD\Memoire\latex\tex\generic\xstring\xstring.tex"
-\@xs@message=\write6
-\integerpart=\count360
-\decimalpart=\count361
+) ("E:\Master1 RSD\Memoire\latex\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip74
+\bibsep=\skip75
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count359
 )
-Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
-)
-\c@tabx@nest=\count362
-\c@listtotal=\count363
-\c@listcount=\count364
-\c@liststart=\count365
-\c@liststop=\count366
-\c@citecount=\count367
-\c@citetotal=\count368
-\c@multicitecount=\count369
-\c@multicitetotal=\count370
-\c@instcount=\count371
-\c@maxnames=\count372
-\c@minnames=\count373
-\c@maxitems=\count374
-\c@minitems=\count375
-\c@citecounter=\count376
-\c@savedcitecounter=\count377
-\c@uniquelist=\count378
-\c@uniquename=\count379
-\c@refsection=\count380
-\c@refsegment=\count381
-\c@maxextratitle=\count382
-\c@maxextratitleyear=\count383
-\c@maxextradate=\count384
-\c@maxextraalpha=\count385
-\c@abbrvpenalty=\count386
-\c@highnamepenalty=\count387
-\c@lownamepenalty=\count388
-\c@maxparens=\count389
-\c@parenlevel=\count390
-\blx@tempcnta=\count391
-\blx@tempcntb=\count392
-\blx@tempcntc=\count393
-\blx@maxsection=\count394
-\blx@maxsegment@0=\count395
-\blx@notetype=\count396
-\blx@parenlevel@text=\count397
-\blx@parenlevel@foot=\count398
-\blx@sectionciteorder@0=\count399
-\labelnumberwidth=\skip74
-\labelalphawidth=\skip75
-\biblabelsep=\skip76
-\bibitemsep=\skip77
-\bibnamesep=\skip78
-\bibinitsep=\skip79
-\bibparsep=\skip80
-\bibhang=\skip81
-\blx@bcfin=\read4
-\blx@bcfout=\write7
-\c@mincomprange=\count400
-\c@maxcomprange=\count401
-\c@mincompwidth=\count402
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\blx-dm.def"
-File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'alphabetic-verb.dbx' not found.
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count403
-\c@savedafterword=\count404
-\c@annotator=\count405
-\c@savedannotator=\count406
-\c@author=\count407
-\c@savedauthor=\count408
-\c@bookauthor=\count409
-\c@savedbookauthor=\count410
-\c@commentator=\count411
-\c@savedcommentator=\count412
-\c@editor=\count413
-\c@savededitor=\count414
-\c@editora=\count415
-\c@savededitora=\count416
-\c@editorb=\count417
-\c@savededitorb=\count418
-\c@editorc=\count419
-\c@savededitorc=\count420
-\c@foreword=\count421
-\c@savedforeword=\count422
-\c@holder=\count423
-\c@savedholder=\count424
-\c@introduction=\count425
-\c@savedintroduction=\count426
-\c@namea=\count427
-\c@savednamea=\count428
-\c@nameb=\count429
-\c@savednameb=\count430
-\c@namec=\count431
-\c@savednamec=\count432
-\c@translator=\count433
-\c@savedtranslator=\count434
-\c@shortauthor=\count435
-\c@savedshortauthor=\count436
-\c@shorteditor=\count437
-\c@savedshorteditor=\count438
-\c@labelname=\count439
-\c@savedlabelname=\count440
-\c@institution=\count441
-\c@savedinstitution=\count442
-\c@lista=\count443
-\c@savedlista=\count444
-\c@listb=\count445
-\c@savedlistb=\count446
-\c@listc=\count447
-\c@savedlistc=\count448
-\c@listd=\count449
-\c@savedlistd=\count450
-\c@liste=\count451
-\c@savedliste=\count452
-\c@listf=\count453
-\c@savedlistf=\count454
-\c@location=\count455
-\c@savedlocation=\count456
-\c@organization=\count457
-\c@savedorganization=\count458
-\c@origlocation=\count459
-\c@savedoriglocation=\count460
-\c@origpublisher=\count461
-\c@savedorigpublisher=\count462
-\c@publisher=\count463
-\c@savedpublisher=\count464
-\c@language=\count465
-\c@savedlanguage=\count466
-\c@origlanguage=\count467
-\c@savedoriglanguage=\count468
-\c@pageref=\count469
-\c@savedpageref=\count470
-\shorthandwidth=\skip82
-\shortjournalwidth=\skip83
-\shortserieswidth=\skip84
-\shorttitlewidth=\skip85
-\shortauthorwidth=\skip86
-\shorteditorwidth=\skip87
-\locallabelnumberwidth=\skip88
-\locallabelalphawidth=\skip89
-\localshorthandwidth=\skip90
-\localshortjournalwidth=\skip91
-\localshortserieswidth=\skip92
-\localshorttitlewidth=\skip93
-\localshortauthorwidth=\skip94
-\localshorteditorwidth=\skip95
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\blx-unicode.def")
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\biblatex.def"
-File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-\c@textcitecount=\count471
-\c@textcitetotal=\count472
-\c@textcitemaxnames=\count473
-\c@biburlnumpenalty=\count474
-\c@biburlucpenalty=\count475
-\c@biburllcpenalty=\count476
-\c@smartand=\count477
-)
-Package biblatex Info: Trying to load bibliography style 'alphabetic-verb'...
-Package biblatex Info: ... file 'alphabetic-verb.bbx' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\bbx\alphabetic-verb.bbx"
-File: alphabetic-verb.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'alphabetic'...
-Package biblatex Info: ... file 'alphabetic.bbx' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\bbx\alphabetic.bbx"
-File: alphabetic.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count478
-\c@bbx:relatedtotal=\count479
-)))
-Package biblatex Info: Trying to load citation style 'alphabetic-verb'...
-Package biblatex Info: ... file 'alphabetic-verb.cbx' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\cbx\alphabetic-verb.cbx"
-File: alphabetic-verb.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-Package biblatex Info: Redefining '\textcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\biblatex.cfg"
-File: biblatex.cfg 
-))
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\base\glossaries.sty"
-Package: glossaries 2019/01/06 v4.42 (NLCT)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\mfirstuc\mfirstuc.sty"
-Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-\@glsmfirst=\toks60
-\@glsmrest=\toks61
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\textcase\textcase.sty"
-Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\xfor\xfor.sty"
-Package: xfor 2009/02/05 v1.05 (NLCT)
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\datatool\datatool-base.sty"
-Package: datatool-base 2018/04/16 v2.30 (NLCT)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\substr\substr.sty"
-Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count480
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\datatool\datatool-fp.sty"
-Package: datatool-fp 2018/04/16 v2.30 (NLCT)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp.sty"
-Package: fp 1995/04/02
-
-`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\defpattern.sty"
-Package: defpattern 1994/10/12
-\actioncount=\count481
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-basic.sty"
-Package: fp-basic 1996/05/13
-\FP@xs=\count482
-\FP@xia=\count483
-\FP@xib=\count484
-\FP@xfa=\count485
-\FP@xfb=\count486
-\FP@rega=\count487
-\FP@regb=\count488
-\FP@regs=\count489
-\FP@times=\count490
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-addons.sty"
-Package: fp-addons 1995/03/15
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-snap.sty"
-Package: fp-snap 1995/04/05
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-exp.sty"
-Package: fp-exp 1995/04/03
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-trigo.sty"
-Package: fp-trigo 1995/04/14
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-pas.sty"
-Package: fp-pas 1994/08/29
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-random.sty"
-Package: fp-random 1995/02/23
-\FPseed=\count491
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-eqn.sty"
-Package: fp-eqn 1995/04/03
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-upn.sty"
-Package: fp-upn 1996/10/21
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\fp\fp-eval.sty"
-Package: fp-eval 1995/04/03
-)))
-\@dtl@toks=\toks62
-\@dtl@tmpcount=\count492
-\dtl@tmplength=\skip96
-\dtl@sortresult=\count493
-\@dtl@numgrpsepcount=\count494
-\@dtl@datatype=\count495
-\dtl@codeA=\count496
-\dtl@codeB=\count497
-\@dtl@foreach@level=\count498
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\base\glossaries-compatible-
-307.sty"
-Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
-) ("E:\Master1 RSD\Memoire\latex\tex\latex\tracklang\tracklang.sty"
-Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
-
-("E:\Master1 RSD\Memoire\latex\tex\generic\tracklang\tracklang.tex"))
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries-german\glossaries-german.ld
-f"
-File: glossaries-german.ldf 2014/11/23 v1.0
-)
-\gls@level=\count499
-\@gls@tmpb=\toks63
-\gls@tmplen=\skip97
-\glskeylisttok=\toks64
-\glslabeltok=\toks65
-\glsshorttok=\toks66
-\glslongtok=\toks67
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-hypernav.st
-y"
-Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
-) ("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-list.sty"
-Package: glossary-list 2019/01/06 v4.42 (NLCT)
-\glslistdottedwidth=\skip98
-) ("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-long.sty"
-Package: glossary-long 2019/01/06 v4.42 (NLCT)
- ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\longtable.sty"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip99
-\LTright=\skip100
-\LTpre=\skip101
-\LTpost=\skip102
-\LTchunksize=\count500
-\LTcapwidth=\dimen304
-\LT@head=\box84
-\LT@firsthead=\box85
-\LT@foot=\box86
-\LT@lastfoot=\box87
-\LT@cols=\count501
-\LT@rows=\count502
-\c@LT@tables=\count503
-\c@LT@chunks=\count504
-\LT@p@ftn=\toks68
-)
-\glsdescwidth=\skip103
-\glspagelistwidth=\skip104
-)
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-super.sty"
-Package: glossary-super 2019/01/06 v4.42 (NLCT)
-
-("E:\Master1 RSD\Memoire\latex\tex\latex\supertabular\supertabular.sty"
-Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count505
-\ST@wd=\dimen305
-\ST@rightskip=\skip105
-\ST@leftskip=\skip106
-\ST@parfillskip=\skip107
-\ST@pageleft=\dimen306
-\ST@headht=\dimen307
-\ST@tailht=\dimen308
-\ST@pagesofar=\dimen309
-\ST@pboxht=\dimen310
-\ST@lineht=\dimen311
-\ST@stretchht=\dimen312
-\ST@prevht=\dimen313
-\ST@toadd=\dimen314
-\ST@dimen=\dimen315
-\ST@pbox=\box88
-))
-("E:\Master1 RSD\Memoire\latex\tex\latex\glossaries\styles\glossary-tree.sty"
-Package: glossary-tree 2019/01/06 v4.42 (NLCT)
-\glstreeindent=\skip108
-)) (glossary.tex)
-\glswrite=\write8
-\glo@main@file=\write9
-\openout9 = `main.glo'.
-
-Package glossaries Info: Writing glossary file main.glo on input line 91.
-
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\frontendlayer\tikz\libraries\tik
 zlibraryshapes.geometric.code.tex"
 File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
@@ -1965,27 +1587,32 @@ ne 4.
 ("E:\Master1 RSD\Memoire\latex\tex\latex\adforn\uornementsadf.fd"))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count506
-\mult@box=\box89
-\multicol@leftmargin=\dimen316
-\c@unbalance=\count507
-\c@collectmore=\count508
-\doublecol@number=\count509
-\multicoltolerance=\count510
-\multicolpretolerance=\count511
-\full@width=\dimen317
-\page@free=\dimen318
-\premulticols=\dimen319
-\postmulticols=\dimen320
-\multicolsep=\skip109
-\multicolbaselineskip=\skip110
-\partial@page=\box90
-\last@line=\box91
-\maxbalancingoverflow=\dimen321
-\mult@rightbox=\box92
-\mult@grightbox=\box93
-\mult@gfirstbox=\box94
-\mult@firstbox=\box95
+\c@tracingmulticols=\count360
+\mult@box=\box84
+\multicol@leftmargin=\dimen304
+\c@unbalance=\count361
+\c@collectmore=\count362
+\doublecol@number=\count363
+\multicoltolerance=\count364
+\multicolpretolerance=\count365
+\full@width=\dimen305
+\page@free=\dimen306
+\premulticols=\dimen307
+\postmulticols=\dimen308
+\multicolsep=\skip76
+\multicolbaselineskip=\skip77
+\partial@page=\box85
+\last@line=\box86
+\maxbalancingoverflow=\dimen309
+\mult@rightbox=\box87
+\mult@grightbox=\box88
+\mult@gfirstbox=\box89
+\mult@firstbox=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
 \@tempa=\box98
@@ -1998,44 +1625,39 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box105
 \@tempa=\box106
 \@tempa=\box107
-\@tempa=\box108
-\@tempa=\box109
-\@tempa=\box110
-\@tempa=\box111
-\@tempa=\box112
-\c@columnbadness=\count512
-\c@finalcolumnbadness=\count513
-\last@try=\dimen322
-\multicolovershoot=\dimen323
-\multicolundershoot=\dimen324
-\mult@nat@firstbox=\box113
-\colbreak@box=\box114
-\mc@col@check@num=\count514
+\c@columnbadness=\count366
+\c@finalcolumnbadness=\count367
+\last@try=\dimen310
+\multicolovershoot=\dimen311
+\multicolundershoot=\dimen312
+\mult@nat@firstbox=\box108
+\colbreak@box=\box109
+\mc@col@check@num=\count368
 )
 (beamerthemealinz.sty (beamerinnerthemealinz.sty) (beamerouterthemealinz.sty
-\progressonsectionpage=\skip111
-\linewidthone=\skip112
+\progressonsectionpage=\skip78
+\linewidthone=\skip79
 )
 (beamercolorthemealinz.sty) (beamerfontthemealinz.sty))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.sty"
-\lst@mode=\count515
-\lst@gtempboxa=\box115
-\lst@token=\toks69
-\lst@length=\count516
-\lst@currlwidth=\dimen325
-\lst@column=\count517
-\lst@pos=\count518
-\lst@lostspace=\dimen326
-\lst@width=\dimen327
-\lst@newlines=\count519
-\lst@lineno=\count520
-\lst@maxwidth=\dimen328
+\lst@mode=\count369
+\lst@gtempboxa=\box110
+\lst@token=\toks60
+\lst@length=\count370
+\lst@currlwidth=\dimen313
+\lst@column=\count371
+\lst@pos=\count372
+\lst@lostspace=\dimen314
+\lst@width=\dimen315
+\lst@newlines=\count373
+\lst@lineno=\count374
+\lst@maxwidth=\dimen316
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count521
-\lst@skipnumbers=\count522
-\lst@framebox=\box116
+\c@lstnumber=\count375
+\lst@skipnumbers=\count376
+\lst@framebox=\box111
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -2047,12 +1669,12 @@ Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count523
-\algocf@hangindent=\skip113
+\c@AlgoLine=\count377
+\algocf@hangindent=\skip80
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\ifoddpage\ifoddpage.sty"
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count524
+\c@checkoddpage=\count378
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -2060,41 +1682,41 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\relsize\relsize.sty"
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip114
-\skiplinenumber=\skip115
-\skiprule=\skip116
-\skiphlne=\skip117
-\skiptext=\skip118
-\skiplength=\skip119
-\algomargin=\skip120
-\skipalgocfslide=\skip121
-\algowidth=\dimen329
-\inoutsize=\dimen330
-\inoutindent=\dimen331
-\interspacetitleruled=\dimen332
-\interspacealgoruled=\dimen333
-\interspacetitleboxruled=\dimen334
-\algocf@ruledwidth=\skip122
-\algocf@inoutbox=\box117
-\algocf@inputbox=\box118
-\AlCapSkip=\skip123
-\AlCapHSkip=\skip124
-\algoskipindent=\skip125
-\algocf@nlbox=\box119
-\algocf@hangingbox=\box120
-\algocf@untilbox=\box121
-\algocf@skipuntil=\skip126
-\algocf@capbox=\box122
-\algocf@lcaptionbox=\skip127
-\algoheightruledefault=\skip128
-\algoheightrule=\skip129
-\algotitleheightruledefault=\skip130
-\algotitleheightrule=\skip131
-\c@algocfline=\count525
-\c@algocfproc=\count526
-\c@algocf=\count527
-\algocf@algoframe=\box123
-\algocf@algobox=\box124
+\skiptotal=\skip81
+\skiplinenumber=\skip82
+\skiprule=\skip83
+\skiphlne=\skip84
+\skiptext=\skip85
+\skiplength=\skip86
+\algomargin=\skip87
+\skipalgocfslide=\skip88
+\algowidth=\dimen317
+\inoutsize=\dimen318
+\inoutindent=\dimen319
+\interspacetitleruled=\dimen320
+\interspacealgoruled=\dimen321
+\interspacetitleboxruled=\dimen322
+\algocf@ruledwidth=\skip89
+\algocf@inoutbox=\box112
+\algocf@inputbox=\box113
+\AlCapSkip=\skip90
+\AlCapHSkip=\skip91
+\algoskipindent=\skip92
+\algocf@nlbox=\box114
+\algocf@hangingbox=\box115
+\algocf@untilbox=\box116
+\algocf@skipuntil=\skip93
+\algocf@capbox=\box117
+\algocf@lcaptionbox=\skip94
+\algoheightruledefault=\skip95
+\algoheightrule=\skip96
+\algotitleheightruledefault=\skip97
+\algotitleheightrule=\skip98
+\c@algocfline=\count379
+\c@algocfproc=\count380
+\c@algocf=\count381
+\algocf@algoframe=\box118
+\algocf@algobox=\box119
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pst-plot\pst-plot.sty"
 Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
@@ -2116,78 +1738,78 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\pstricks.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\pst-fp.tex"
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count528
-\pstFP@xia=\count529
-\pstFP@xib=\count530
-\pstFP@xfa=\count531
-\pstFP@xfb=\count532
-\pstFP@rega=\count533
-\pstFP@regb=\count534
-\pstFP@regs=\count535
-\pstFP@times=\count536
+\pstFP@xs=\count382
+\pstFP@xia=\count383
+\pstFP@xib=\count384
+\pstFP@xfa=\count385
+\pstFP@xfb=\count386
+\pstFP@rega=\count387
+\pstFP@regb=\count388
+\pstFP@regs=\count389
+\pstFP@times=\count390
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks70
-\pgfutil@tempdima=\dimen335
-\pgfutil@tempdimb=\dimen336
+\pgfutil@everybye=\toks61
+\pgfutil@tempdima=\dimen323
+\pgfutil@tempdimb=\dimen324
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common-lists.t
 ex")) ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfkeys.code.tex
 ") ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgffor.code.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen337
-\pgffor@skip=\dimen338
-\pgffor@stack=\toks71
-\pgffor@toks=\toks72
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks62
+\pgffor@toks=\toks63
 )
-\psLoopIndex=\count537
+\psLoopIndex=\count391
 
 `PSTricks' v2.84  <2018/05/01> (tvz,hv)
-\pst@dima=\dimen339
-\pst@dimb=\dimen340
-\pst@dimc=\dimen341
-\pst@dimd=\dimen342
-\pst@dimg=\dimen343
-\pst@dimh=\dimen344
-\pst@dimm=\dimen345
-\pst@dimn=\dimen346
-\pst@dimo=\dimen347
-\pst@dimp=\dimen348
-\pst@hbox=\box125
-\pst@ibox=\box126
-\pst@boxg=\box127
-\pst@cnta=\count538
-\pst@cntb=\count539
-\pst@cntc=\count540
-\pst@cntd=\count541
-\pst@cntg=\count542
-\pst@cnth=\count543
-\pst@cntm=\count544
-\pst@cntn=\count545
-\pst@cnto=\count546
-\pst@cntp=\count547
-\@zero=\count548
-\pst@toks=\toks73
+\pst@dima=\dimen327
+\pst@dimb=\dimen328
+\pst@dimc=\dimen329
+\pst@dimd=\dimen330
+\pst@dimg=\dimen331
+\pst@dimh=\dimen332
+\pst@dimm=\dimen333
+\pst@dimn=\dimen334
+\pst@dimo=\dimen335
+\pst@dimp=\dimen336
+\pst@hbox=\box120
+\pst@ibox=\box121
+\pst@boxg=\box122
+\pst@cnta=\count392
+\pst@cntb=\count393
+\pst@cntc=\count394
+\pst@cntd=\count395
+\pst@cntg=\count396
+\pst@cnth=\count397
+\pst@cntm=\count398
+\pst@cntn=\count399
+\pst@cnto=\count400
+\pst@cntp=\count401
+\@zero=\count402
+\pst@toks=\toks64
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"))
-\psunit=\dimen349
-\psxunit=\dimen350
-\psyunit=\dimen351
-\pst@C@@rType=\count549
-\pslinewidth=\dimen352
-\psk@startLW=\dimen353
-\psk@endLW=\dimen354
-\pst@customdefs=\toks74
-\pslinearc=\dimen355
-\pst@symbolStep=\dimen356
-\pst@symbolWidth=\dimen357
-\pst@symbolLinewidth=\dimen358
-\everypsbox=\toks75
-\psframesep=\dimen359
-\pslabelsep=\dimen360
-\sh@wgridXunit=\dimen361
-\sh@wgridYunit=\dimen362
-\pst@shift=\dimen363
+\psunit=\dimen337
+\psxunit=\dimen338
+\psyunit=\dimen339
+\pst@C@@rType=\count403
+\pslinewidth=\dimen340
+\psk@startLW=\dimen341
+\psk@endLW=\dimen342
+\pst@customdefs=\toks65
+\pslinearc=\dimen343
+\pst@symbolStep=\dimen344
+\pst@symbolWidth=\dimen345
+\pst@symbolLinewidth=\dimen346
+\everypsbox=\toks66
+\psframesep=\dimen347
+\pslabelsep=\dimen348
+\sh@wgridXunit=\dimen349
+\sh@wgridYunit=\dimen350
+\pst@shift=\dimen351
 
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"
@@ -2206,9 +1828,9 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\multido\multido.tex"
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count550
-\multidocount=\count551
-\multido@stuff=\toks76
+\multido@count=\count404
+\multidocount=\count405
+\multido@stuff=\toks67
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -2220,56 +1842,56 @@ Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks-add\pstricks-add.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-node\pst-node.tex"
  v1.41, 2017/12/30
-\psrow=\count552
-\pscol=\count553
-\psmatrixcnt=\count554
-\psrowsep=\skip132
-\pscolsep=\skip133
-\pst@args=\count555
-\num@pts=\count556
-\pst@argcnt=\count557
+\psrow=\count406
+\pscol=\count407
+\psmatrixcnt=\count408
+\psrowsep=\skip99
+\pscolsep=\skip100
+\pst@args=\count409
+\num@pts=\count410
+\pst@argcnt=\count411
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-arrow\pst-arrow.tex"
 `pst-arrow' v0.01, 2016/09/01 (dr,hv)
-\pshooklength=\dimen364
-\pshookwidth=\dimen365
+\pshooklength=\dimen352
+\pshookwidth=\dimen353
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-3d\pst-3d.tex"
 `PST-3d' v1.11, 2010/02/14 (tvz))
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-math\pst-math.tex"
 `pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.85a, 2018/02/03 (dr,hv)
-\psparallelogramsep=\dimen366
-\pst@cntC=\count558
-\pst@stepcount=\count559
-\chart@ColorIndex=\dimen367
-\chart@ColorStep=\dimen368
-\pst@chartHeight=\dimen369
-\pst@chartStackDepth=\dimen370
-\pst@chartStackWidth=\dimen371
-\chart@Toggle=\count560
-\psVectorCtr=\count561
+\psparallelogramsep=\dimen354
+\pst@cntC=\count412
+\pst@stepcount=\count413
+\chart@ColorIndex=\dimen355
+\chart@ColorStep=\dimen356
+\pst@chartHeight=\dimen357
+\pst@chartStackDepth=\dimen358
+\pst@chartStackWidth=\dimen359
+\chart@Toggle=\count414
+\psVectorCtr=\count415
 )
  v1.90, 2018/03/28 (tvz,hv)
-\pstRadUnit=\dimen372
-\pstRadUnitInv=\dimen373
-\pst@linecnt=\count562
-\RCD@file=\read5
-\psxlabelsep=\dimen374
-\psylabelsep=\dimen375
-\psk@subticksize=\dimen376
-\pst@xticksizeA=\dimen377
-\pst@xticksizeB=\dimen378
-\pst@xticksizeC=\dimen379
-\pst@yticksizeA=\dimen380
-\pst@yticksizeB=\dimen381
-\pst@yticksizeC=\dimen382
-\@digitcounter=\count563
-\psk@llx=\dimen383
-\psk@lly=\dimen384
-\psk@urx=\dimen385
-\psk@ury=\dimen386
-\pst@xunit=\dimen387
-\pst@yunit=\dimen388
+\pstRadUnit=\dimen360
+\pstRadUnitInv=\dimen361
+\pst@linecnt=\count416
+\RCD@file=\read4
+\psxlabelsep=\dimen362
+\psylabelsep=\dimen363
+\psk@subticksize=\dimen364
+\pst@xticksizeA=\dimen365
+\pst@xticksizeB=\dimen366
+\pst@xticksizeC=\dimen367
+\pst@yticksizeA=\dimen368
+\pst@yticksizeB=\dimen369
+\pst@yticksizeC=\dimen370
+\@digitcounter=\count417
+\psk@llx=\dimen371
+\psk@lly=\dimen372
+\psk@urx=\dimen373
+\psk@ury=\dimen374
+\pst@xunit=\dimen375
+\pst@yunit=\dimen376
 )
 File: pst-plot.tex 2018/03/28 1.90 `pst-plot' (tvz,hv)
 )
@@ -2278,7 +1900,7 @@ Package: pst-solides3d 2017/03/03 package wrapper for pst-solides3d
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-solides3d\pst-solides3d.tex"
 `PSTSOLIDESIIID' v4.34, 2017/08/23
-\test@mode=\count564
+\test@mode=\count418
 Invalid UTF-8 byte or sequence at line 991 replaced by U+FFFD.
 )
 File: pst-solides3d.tex 2017/08/23 v4.34 `PST-solides3D'
@@ -2324,34 +1946,42 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 s.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box128
-\pgfnodeparttwobox=\box129
-\pgfnodepartthreebox=\box130
-\pgfnodepartfourbox=\box131
-\pgfnodeparttwentybox=\box132
-\pgfnodepartnineteenbox=\box133
-\pgfnodeparteighteenbox=\box134
-\pgfnodepartseventeenbox=\box135
-\pgfnodepartsixteenbox=\box136
-\pgfnodepartfifteenbox=\box137
-\pgfnodepartfourteenbox=\box138
-\pgfnodepartthirteenbox=\box139
-\pgfnodeparttwelvebox=\box140
-\pgfnodepartelevenbox=\box141
-\pgfnodeparttenbox=\box142
-\pgfnodepartninebox=\box143
-\pgfnodeparteightbox=\box144
-\pgfnodepartsevenbox=\box145
-\pgfnodepartsixbox=\box146
-\pgfnodepartfivebox=\box147
+\pgfnodepartlowerbox=\box123
+\pgfnodeparttwobox=\box124
+\pgfnodepartthreebox=\box125
+\pgfnodepartfourbox=\box126
+\pgfnodeparttwentybox=\box127
+\pgfnodepartnineteenbox=\box128
+\pgfnodeparteighteenbox=\box129
+\pgfnodepartseventeenbox=\box130
+\pgfnodepartsixteenbox=\box131
+\pgfnodepartfifteenbox=\box132
+\pgfnodepartfourteenbox=\box133
+\pgfnodepartthirteenbox=\box134
+\pgfnodeparttwelvebox=\box135
+\pgfnodepartelevenbox=\box136
+\pgfnodeparttenbox=\box137
+\pgfnodepartninebox=\box138
+\pgfnodeparteightbox=\box139
+\pgfnodepartsevenbox=\box140
+\pgfnodepartsixbox=\box141
+\pgfnodepartfivebox=\box142
 )))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks77
-\verbatim@line=\toks78
-\verbatim@in@stream=\read6
+\every@verbatim=\toks68
+\verbatim@line=\toks69
+\verbatim@in@stream=\read5
 )
 (misc/javascript.tex) (misc/html5.tex))
+("E:\Master1 RSD\Memoire\latex\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen377
+\WF@size=\dimen378
+\c@WF@wrappedlines=\count419
+\WF@box=\box143
+\WF@everypar=\toks70
+Package: wrapfig 2003/01/31  v 3.6
+)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\marvosym\marvosym.sty"
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
@@ -2363,17 +1993,13 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'german'.
-Package biblatex Info: Trying to load language 'german'...
-Package biblatex Info: ... file 'german.lbx' found.
-("E:\Master1 RSD\Memoire\latex\tex\latex\biblatex\lbx\german.lbx"
-File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
-) (main.aux
-LaTeX Font Info:    Try loading font information for U+lmss on input line 37.
-LaTeX Font Info:    No file Ulmss.fd. on input line 37.
+(main.aux
+LaTeX Font Info:    Try loading font information for U+lmss on input line 27.
+LaTeX Font Info:    No file Ulmss.fd. on input line 27.
 
 
 LaTeX Font Warning: Font shape `U/lmss/m/n' undefined
-(Font)              using `U/cmr/m/n' instead on input line 37.
+(Font)              using `U/cmr/m/n' instead on input line 27.
 
 )
 \openout1 = `main.aux'.
@@ -2431,7 +2057,7 @@ LaTeX Font Info:    ... okay on input line 35.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box148
+\AtBeginShipoutBox=\box144
 Package hyperref Info: Link coloring OFF on input line 35.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\hyperref\nameref.sty"
@@ -2440,15 +2066,15 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("E:\Master1 RSD\Memoire\latex\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count565
+\c@section@level=\count420
 )
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
 
 (main.out) (main.out)
-\@outlinefile=\write10
-\openout10 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 35.
@@ -2521,18 +2147,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-Package biblatex Info: XeTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout7 = `main.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 35.
-Package biblatex Info: Reference segment=0 on input line 35.
-\c@lstlisting=\count566
+\c@lstlisting=\count421
  (main.nav)
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
@@ -2606,34 +2221,22 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 38.
  [1
 
-\openout8 = `main.ist'.
-
 ] (main.toc
-Package cleveref Info: loaded `german language definitions on input line 3.
-Package cleveref Info: loaded `german language definitions on input line 5.
+Package cleveref Info: loaded `german language definitions on input line 1.
+Package cleveref Info: loaded `german language definitions on input line 2.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 7.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 3.
 
-)
-
-LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
-(Font)              using `T1/lmr/bx/n' instead on input line 45.
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 45--45
-[][][][]  
- []
-
-[2
+) [2
 
 ] (introduction.tex
 ! Undefined control sequence.
 \beamer@@tmpl@progress bar in section page ...ble 
                                                   \begin {tikzpicture} \fill...
-l.1 ^^I\section{Introduction}
-                             
+l.1 \section{Introduction}
+                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2643,8 +2246,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \beamer@@tmpl@progress bar in section page ...ble 
                                                   
-l.1 ^^I\section{Introduction}
-                             
+l.1 \section{Introduction}
+                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2661,7 +2264,12 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 File: resources/Ariane_5.jpg Graphic file (type bmp)
 <resources/Ariane_5.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 66--66
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 65.
+
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
@@ -2673,7 +2281,7 @@ File: resources/graphD.png Graphic file (type bmp)
 File: resources/Ariane_5.jpg Graphic file (type bmp)
 <resources/Ariane_5.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 66--66
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
@@ -2687,12 +2295,12 @@ File: resources/Ariane_5.jpg Graphic file (type bmp)
 File: resources/Patriot.jpg Graphic file (type bmp)
 <resources/Patriot.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 66--66
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
 
-Overfull \vbox (0.69627pt too high) detected at line 66
+Overfull \vbox (0.69627pt too high) detected at line 65
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2707,12 +2315,12 @@ File: resources/Patriot.jpg Graphic file (type bmp)
 File: resources/bug2000.png Graphic file (type bmp)
 <resources/bug2000.png>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 66--66
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
 
-Overfull \vbox (0.69627pt too high) detected at line 66
+Overfull \vbox (0.69627pt too high) detected at line 65
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2727,12 +2335,12 @@ File: resources/Patriot.jpg Graphic file (type bmp)
 File: resources/bug2000.png Graphic file (type bmp)
 <resources/bug2000.png>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 66--66
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
 
-Overfull \vbox (0.69627pt too high) detected at line 66
+Overfull \vbox (0.69627pt too high) detected at line 65
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2748,7 +2356,7 @@ File: resources/graphD.png Graphic file (type bmp)
 File: resources/mc/0001.jpg Graphic file (type bmp)
 <resources/mc/0001.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
@@ -2762,7 +2370,7 @@ File: resources/mc/0001.jpg Graphic file (type bmp)
 File: resources/mc/0002.jpg Graphic file (type bmp)
 <resources/mc/0002.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
@@ -2778,7 +2386,7 @@ File: resources/mc/0002.jpg Graphic file (type bmp)
 File: resources/mc/0003.jpg Graphic file (type bmp)
 <resources/mc/0003.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
@@ -2796,12 +2404,12 @@ File: resources/mc/0003.jpg Graphic file (type bmp)
 File: resources/mc/0004.jpg Graphic file (type bmp)
 <resources/mc/0004.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
 
-Overfull \vbox (29.05003pt too high) detected at line 118
+Overfull \vbox (29.05003pt too high) detected at line 117
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2820,12 +2428,12 @@ File: resources/mc/0004.jpg Graphic file (type bmp)
 File: resources/mc/0005.jpg Graphic file (type bmp)
 <resources/mc/0005.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
 
-Overfull \vbox (29.05003pt too high) detected at line 118
+Overfull \vbox (29.05003pt too high) detected at line 117
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2846,12 +2454,12 @@ File: resources/mc/0005.jpg Graphic file (type bmp)
 File: resources/mc/0006.jpg Graphic file (type bmp)
 <resources/mc/0006.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 118--118
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 117--117
 [][][][]  
  []
 
 
-Overfull \vbox (29.05003pt too high) detected at line 118
+Overfull \vbox (29.05003pt too high) detected at line 117
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2866,201 +2474,14 @@ File: resources/graphD.png Graphic file (type bmp)
 ]
 File: petri.png Graphic file (type bmp)
 <petri.png>
+File: pc.jpg Graphic file (type bmp)
+<pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
+File: petri.png Graphic file (type bmp)
+<petri.png>
 
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named decide is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3071,189 +2492,14 @@ File: resources/graphD.png Graphic file (type bmp)
 ]
 File: petri.png Graphic file (type bmp)
 <petri.png>
+File: pc.jpg Graphic file (type bmp)
+<pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
+File: petri.png Graphic file (type bmp)
+<petri.png>
 
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named stockable is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3266,141 +2512,12 @@ File: petri.png Graphic file (type bmp)
 <petri.png>
 File: pc.jpg Graphic file (type bmp)
 <pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
+File: petri.png Graphic file (type bmp)
+<petri.png>
 
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3413,141 +2530,12 @@ File: petri.png Graphic file (type bmp)
 <petri.png>
 File: pc.jpg Graphic file (type bmp)
 <pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
+File: petri.png Graphic file (type bmp)
+<petri.png>
 
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named tempsR is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3560,99 +2548,12 @@ File: petri.png Graphic file (type bmp)
 <petri.png>
 File: pc.jpg Graphic file (type bmp)
 <pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
+File: petri.png Graphic file (type bmp)
+<petri.png>
 
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named m is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3665,87 +2566,12 @@ File: petri.png Graphic file (type bmp)
 <petri.png>
 File: pc.jpg Graphic file (type bmp)
 <pc.jpg>
+File: graphD.png Graphic file (type bmp)
+<graphD.png>
 File: petri.png Graphic file (type bmp)
 <petri.png>
 
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-! Package PGF Math Error: You asked me to calculate `1/0.0', but I cannot divid
-e any number by zero.
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Arithmetic overflow.
-<to be read again> 
-                   \relax 
-l.188 \end{frame}
-                 
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named distribution is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3763,22 +2589,7 @@ File: graphD.png Graphic file (type bmp)
 File: petri.png Graphic file (type bmp)
 <petri.png>
 
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3796,22 +2607,7 @@ File: graphD.png Graphic file (type bmp)
 File: petri.png Graphic file (type bmp)
 <petri.png>
 
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-! Package pgf Error: No shape named cdistribuer is known.
-\pgfutil@packageerror ...ge {Package #1 Error: #2}
-                                                  
-l.188 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3829,7 +2625,7 @@ File: graphD.png Graphic file (type bmp)
 File: petri.png Graphic file (type bmp)
 <petri.png>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 188--188
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 174--174
 [][][][]  
  []
 
@@ -3843,7 +2639,7 @@ File: resources/graphD.png Graphic file (type bmp)
  [26
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 241--241
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 227--227
 [][][][]  
  []
 
@@ -3852,7 +2648,7 @@ File: resources/graphD.png Graphic file (type bmp)
 [27
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 241--241
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 227--227
 [][][][]  
  []
 
@@ -3864,7 +2660,7 @@ File: resources/graphD.png Graphic file (type bmp)
 File: resources/bndistributions.png Graphic file (type bmp)
 <resources/bndistributions.png>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 241--241
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 227--227
 [][][][]  
  []
 
@@ -3898,22 +2694,188 @@ and I'll forget about whatever was undefined.
 [30
 
 ]
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 14.
+(Font)              <10> on input line 33.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 14.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 14.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 33--33
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 [31
+
+]
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[32
+
+]
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[33
+
+]
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[34
+
+]
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+ [35
+
+]
+File: resources/benstira/0001.pdf Graphic file (type pdf)
+<use resources/benstira/0001.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[36
+
+]
+File: resources/benstira/0002.pdf Graphic file (type pdf)
+<use resources/benstira/0002.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[37
+
+]
+File: resources/benstira/0003.pdf Graphic file (type pdf)
+<use resources/benstira/0003.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[38
+
+]
+File: resources/benstira/0004.pdf Graphic file (type pdf)
+<use resources/benstira/0004.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[39
+
+]
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+ [40
+
+]
+File: resources/benstira/critque1.pdf Graphic file (type pdf)
+<use resources/benstira/critque1.pdf>
+File: resources/benstira/critque2.pdf Graphic file (type pdf)
+<use resources/benstira/critque2.pdf>
+File: resources/benstira/critque3.pdf Graphic file (type pdf)
+<use resources/benstira/critque3.pdf>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[41
+
+]
+File: resources/benstira/critque2.pdf Graphic file (type pdf)
+<use resources/benstira/critque2.pdf>
+File: resources/benstira/critque3.pdf Graphic file (type pdf)
+<use resources/benstira/critque3.pdf>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[42
+
+]
+File: resources/benstira/critque2.pdf Graphic file (type pdf)
+<use resources/benstira/critque2.pdf>
+File: resources/benstira/critque3.pdf Graphic file (type pdf)
+<use resources/benstira/critque3.pdf>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[43
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 210--210
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[44
 
 ]) (contibution.tex
 ! Undefined control sequence.
@@ -3938,16 +2900,282 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[32
+[45
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
+File: resources/benstira/critque1.pdf Graphic file (type pdf)
+<use resources/benstira/critque1.pdf>
+File: resources/pointpartition.pdf Graphic file (type pdf)
+<use resources/pointpartition.pdf>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-[33
+[46
+
+]
+File: resources/pointpartition.pdf Graphic file (type pdf)
+<use resources/pointpartition.pdf>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[47
+
+]
+File: resources/pointpartition.pdf Graphic file (type pdf)
+<use resources/pointpartition.pdf>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[48
+
+]
+File: resources/nash.jpg Graphic file (type bmp)
+<resources/nash.jpg>
+File: resources/prisonier.png Graphic file (type bmp)
+<resources/prisonier.png>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[49
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[50
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[51
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[52
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[53
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[54
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[55
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[56
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[57
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 149--149
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[58
 
 ]) (conclusion.tex
 ! Undefined control sequence.
@@ -3972,7 +3200,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[34
+[59
 
 ]
 Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
@@ -3981,82 +3209,88 @@ Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-[35
+[60
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 25--25
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[61
 
 ])
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [36
+ [62
 
 ]
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [37
+ [63
 
 ]
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [38
+ [64
 
 ]
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [39
+ [65
 
 ]
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [40
+ [66
+
+] (main.bbl
+Missing character: There is no ’ in font ec-lmsso12!
+)
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 70--70
+[][][][]  
+ []
+
+[67
 
 ]
+\tf@nav=\write7
+\openout7 = `main.nav'.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\part' on input line 65.
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
-\tf@nav=\write11
-\openout11 = `main.nav'.
-
-\tf@toc=\write12
-\openout12 = `main.toc'.
-
-\tf@snm=\write13
-\openout13 = `main.snm'.
+\tf@snm=\write9
+\openout9 = `main.snm'.
 
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
 \openout5 = `main.maf'.
 
-
-Package glossaries Warning: No \printglossary or \printglossaries found. 
-(Remove \makeglossaries if you don't want any glossaries.) 
-This document will not have a glossary.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
-(main.aux
-Package cleveref Info: loaded `german language definitions on input line 37.
-Package cleveref Info: loaded `german language definitions on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+ (main.aux
+Package cleveref Info: loaded `german language definitions on input line 27.
+Package cleveref Info: loaded `german language definitions on input line 31.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CF1EFB35406673FF84F4C4221115D8E0.
+(rerunfilecheck)             Checksum: 20ADDB78788D2F1EEF45F5E8A72960C9.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
  ) 
 Here is how much of TeX's memory you used:
- 61913 strings out of 427798
- 1182747 string characters out of 3151608
- 1922173 words of memory out of 3000000
- 64698 multiletter control sequences out of 15000+200000
+ 51206 strings out of 427798
+ 977361 string characters out of 3151608
+ 1404563 words of memory out of 3000000
+ 54106 multiletter control sequences out of 15000+200000
  642269 words of font info for 108 fonts, out of 3000000 for 9000
- 1330 hyphenation exceptions out of 8191
- 62i,19n,85p,2009b,3584s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 1328 hyphenation exceptions out of 8191
+ 62i,19n,85p,1100b,1433s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (40 pages).
+Output written on main.pdf (67 pages).

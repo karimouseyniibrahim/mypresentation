@@ -79,16 +79,20 @@
 % -----------------------------------
 % bibliography and glossaries
 % -----------------------------------
+ 
 
-\usepackage[
-    backend=biber,
-    style=alphabetic-verb
-    ]{biblatex}
-\bibliography{presentation}
+ %\usepackage[
+ %    backend=biber,
+  %   style=alphabetic-verb
+  %  ]{biblatex}
 
-\usepackage{glossaries}
-\input{glossary}
-\makeglossaries
+\usepackage[comma,authoryear]{natbib}
+%\usepackage{bibentry}
+\renewcommand{\bibsection}{\section*{Bibliographie}}
+\setcitestyle{authoryear,open={[},close={]}}
+%\usepackage{glossaries}
+%\input{glossary}
+%\makeglossaries
 
 % -----------------------------------
 % graphics
@@ -165,7 +169,7 @@
 \tikzstyle{selected edge} = [draw,line width=5pt,-,red!50]
 \tikzstyle{ignored edge} = [draw,line width=5pt,-,black!20]
 
-
+%\setcitestyle{authoryear,open={[},close={]}}
 \input{misc/javascript}
 \input{misc/html5}
-
+\usepackage{wrapfig}

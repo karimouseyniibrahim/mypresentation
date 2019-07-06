@@ -1,5 +1,4 @@
-	\section{Introduction}
-
+\section{Introduction}
 \subsection{Contexte}
 \begin{frame}{Contexte}
 Ces dernières années plusieurs catastrophes sont dues à des erreurs de spécifications des systèmes développés.
@@ -142,33 +141,20 @@ La fiabilité de tout système est envisageable, en particulier celle de systèm
 				minimum height=2em]
 				
 				\begin{tikzpicture}[scale=3, every node/.style={scale=0.4},node distance = 5cm, auto]
-				\only<2->
-				{
-					\node [decision ] (decide) {Peut-il être stocké sur une machine ?};
-				}
+					\node [decision,visible on=<2-> ] (decide) {Peut-il être stocké sur une machine ?};				
 				
-				\node [cloud,fill=white,left of=decide] (g) {\includegraphics[width=1.5cm]{petri}};
+					\node [cloud,fill=white,left of=decide] (g) {\includegraphics[width=1.5cm]{petri}};				
 				
-				\only<3->
-				{
-					\node [block, below of=decide] (stockable) {\includegraphics[width=1.5cm]{pc}};
-				}
-				\only<7->
-				{
-					\node [block, right of=decide,text width=10em, blue,node distance=10cm] (distribution)  {\includegraphics[width=3cm]{graphD}};
-				}
-				\only<5->
-				{	
-					\node [decision,below of=stockable] (tempsR) {Temps de reponse rainsonnable ?};
-				}
-				\only<6->
-				{
-					\node [block,left of=tempsR,blue ] (m) {\includegraphics[width=2cm]{petri}};
-				}
-				\only<9->			
-				{
-					\node [block, right of=distribution,text width=10em,node distance=7cm ] (cdistribuer) {Comment Distribué ?}; 
-				}
+					\node [block, below of=decide,visible on=<3->] (stockable) {\includegraphics[width=1.5cm]{pc}};
+
+					\node [block, right of=decide,text width=10em, blue,node distance=10cm,visible on=<7->] (distribution)  {\includegraphics[width=3cm]{graphD}};
+
+					\node [decision,below of=stockable,visible on=<5->] (tempsR) {Temps de reponse rainsonnable ?};
+
+					\node [block,left of=tempsR,blue,visible on=<6-> ] (m) {\includegraphics[width=2cm]{petri}};
+
+					\node [block, right of=distribution,text width=10em,node distance=7cm,visible on=<9-> ] (cdistribuer) {Comment Distribué ?}; 
+
 				% Draw edges
 				\path [line,visible on=<2-> ] (g) -- (decide);
 				\path [line,visible on=<3-> ] (decide) --node {OUI} (stockable);

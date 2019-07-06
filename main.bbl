@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+% this bibliography was produced with the style dinat.bst v2.5
+\makeatletter
+\newcommand{\dinatlabel}[1]%
+{\ifNAT@numbers\else\NAT@biblabelnum{#1}\hspace{2\labelsep}\fi}
+\makeatother
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
+
+\bibitem[BENSETIRA(2017)]{BENSETIRA2017}
+\dinatlabel{BENSETIRA 2017} \textsc{BENSETIRA}, Imene:
+\newblock \emph{Proposition d'algorithmes de distribution des espaces d'états
+  en vue d’une vérification basée model checking: Application aux automates
+  temporisés avec durées d'actions}, Université Abdelhamid Mehri -
+  Constantine 2, Dissertation, 2017
+
+\end{thebibliography}
