@@ -17,4 +17,4 @@
 \beamer@subsectionintoc {3}{6}{Résultat}{80}{0}{3}
 \beamer@sectionintoc {4}{Conclusion}{86}{0}{4}
 \beamer@subsectionintoc {4}{1}{Conclusion}{87}{0}{4}
-\beamer@subsectionintoc {4}{2}{Perspectives}{89}{0}{4}
+\beamer@subsectionintoc {4}{2}{Perspectives}{88}{0}{4}

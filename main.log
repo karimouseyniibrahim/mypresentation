@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  10 JUL 2019 09:33
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  10 JUL 2019 12:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -3095,8 +3095,8 @@ and I'll forget about whatever was undefined.
 ]
 File: resources/benstira/critque1.png Graphic file (type bmp)
 <resources/benstira/critque1.png>
-File: resources/pointpartition.png Graphic file (type bmp)
-<resources/pointpartition.png>
+File: resources/pointpartition.jpg Graphic file (type bmp)
+<resources/pointpartition.jpg>
 File: resources/pc.jpg Graphic file (type bmp)
 <resources/pc.jpg>
 
@@ -3109,8 +3109,8 @@ File: resources/graphD.png Graphic file (type bmp)
 [56
 
 ]
-File: resources/pointpartition.png Graphic file (type bmp)
-<resources/pointpartition.png>
+File: resources/pointpartition.jpg Graphic file (type bmp)
+<resources/pointpartition.jpg>
 File: resources/pc.jpg Graphic file (type bmp)
 <resources/pc.jpg>
 
@@ -3123,8 +3123,8 @@ File: resources/graphD.png Graphic file (type bmp)
 [57
 
 ]
-File: resources/pointpartition.png Graphic file (type bmp)
-<resources/pointpartition.png>
+File: resources/pointpartition.jpg Graphic file (type bmp)
+<resources/pointpartition.jpg>
 File: resources/pc.jpg Graphic file (type bmp)
 <resources/pc.jpg>
 
@@ -3585,9 +3585,7 @@ and I'll forget about whatever was undefined.
 [86
 
 ]
-Missing character: There is no ’ in font ec-lmss12!
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 10--10
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 5--5
 [][][][]  
  []
 
@@ -3597,8 +3595,9 @@ File: resources/graphD.png Graphic file (type bmp)
 
 ]
 Missing character: There is no ’ in font ec-lmss12!
+Missing character: There is no ’ in font ec-lmss12!
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 10--10
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 18--18
 [][][][]  
  []
 
@@ -3610,25 +3609,13 @@ File: resources/graphD.png Graphic file (type bmp)
 Missing character: There is no ’ in font ec-lmss12!
 Missing character: There is no ’ in font ec-lmss12!
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 23--23
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 18--18
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 [89
-
-]
-Missing character: There is no ’ in font ec-lmss12!
-Missing character: There is no ’ in font ec-lmss12!
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 23--23
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[90
 
 ])
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -3643,7 +3630,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20.74> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
- [91
+ [90
 
 ] (main.bbl
 Missing character: There is no ’ in font ec-lmsso12!
@@ -3652,7 +3639,7 @@ Overfull \hbox (5.21664pt too wide) in paragraph at lines 45--45
 [][][][]  
  []
 
-[92
+[91
 
 ]
 \tf@nav=\write7
@@ -3672,14 +3659,25 @@ Package minitoc Info: I0009
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
  (main.aux
+*************************************************
+* pdfbase warning: "rerun"
+* 
+* Rerun to get internal references right!
+*************************************************
 Package cleveref Info: loaded `french' language definitions on input line 26.
 Package cleveref Info: loaded `french' language definitions on input line 30.
 )
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 47.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2F0850671954BF95A15ED23DDB0688A1.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 2F0850671954BF95A15ED23DDB0688A1
+(rerunfilecheck)             After:  AF8116F2ACADFCD8E8DD5CFD0807AD9C.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -3693,4 +3691,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  62i,19n,85p,1100b,1413s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (92 pages).
+Output written on main.pdf (91 pages).
