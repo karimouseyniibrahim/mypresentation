@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  6 JUL 2019 18:21
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.6.26)  10 JUL 2019 09:33
 entering extended mode
 **./main.tex
 (main.tex
@@ -1158,13 +1158,16 @@ File: switch.def 2018/06/05 3.22 Babel switching mechanism
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngerman.ldf"
-Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
-phy)
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel-french\frenchb.ldf"
+Language: frenchb 2018/04/12 v3.4d French support from the babel system
 
-("E:\Master1 RSD\Memoire\latex\tex\latex\babel-german\ngermanb.ldf"
-Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
-aphy)
+
+Package babel-french Warning: Option `frenchb' for Babel is *deprecated*,
+(babel-french)                it might be removed sooner or later. Please
+(babel-french)                use `french' instead; reported on input line 35.
+
+("E:\Master1 RSD\Memoire\latex\tex\generic\babel-french\french.ldf"
+Language: french 2018/04/12 v3.4d French support from the babel system
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\babel\babel.def"
 File: babel.def 2018/06/05 3.22 Babel common definitions
@@ -1176,8 +1179,38 @@ File: babel.def 2018/06/05 3.22 Babel common definitions
 LaTeX Info: Redefining \textlatin on input line 1915.
 \bbl@dirlevel=\count318
 )
-Package babel Info: Making " an active character on input line 121.
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count319
+Package french.ldf Info: No need for active punctuation characters
+(french.ldf)             with this version of XeTeX!
+(french.ldf)             reported on input line 327.
+\FB@punctthick=\XeTeXcharclass1
+\FB@punctthin=\XeTeXcharclass2
+\FB@punctnul=\XeTeXcharclass3
+\FB@guilo=\XeTeXcharclass4
+\FB@guilf=\XeTeXcharclass5
+\FB@guilnul=\XeTeXcharclass6
+\FBguill@level=\count320
+\FB@everypar=\toks47
+\FB@Mht=\dimen283
+LaTeX Info: Redefining \degres on input line 757.
+\mc@charclass=\count321
+\mc@charfam=\count322
+\mc@charslot=\count323
+\std@mcc=\count324
+\dec@mcc=\count325
+\c@FBcaption@count=\count326
+\listindentFB=\skip63
+\descindentFB=\skip64
+\labelwidthFB=\skip65
+\leftmarginFB=\skip66
+\parindentFFN=\dimen284
+\FBfnindent=\skip67
 )))
+("E:\Master1 RSD\Memoire\latex\tex\latex\carlisle\scalefnt.sty")
+Package french.ldf Info: No list customisation for the beamer class,
+(french.ldf)             reported on input line 24.
+
 ("E:\Master1 RSD\Memoire\latex\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -1200,8 +1233,8 @@ Package: mtcmess 2006/03/14
 Package minitoc Info: I0001
 (minitoc)             *** minitoc package, version 62 ***.
 \tf@mtc=\write5
-\mtcindent=\skip63
-\mtcskipamount=\skip64
+\mtcindent=\skip68
+\mtcskipamount=\skip69
 Package minitoc Info: I0005
 (minitoc)             compatible with hyperref.
 Package minitoc Info: I0023
@@ -1210,7 +1243,7 @@ Package minitoc Info: I0004
 (minitoc)             chapter level macros NOT available.
 Package minitoc Info: I0028
 (minitoc)             section level macros available.
-\mtc@toks=\toks47
+\mtc@toks=\toks48
 \mtc@strutbox=\box73
 \mtc@hstrutbox=\box74
 Package minitoc Info: I0002
@@ -1229,12 +1262,12 @@ Package minitoc Info: I0031
 
 \openout5 = `main.mtc0'.
 
-\c@ptc=\count319
-\c@parttocdepth=\count320
-\ptcindent=\skip65
-\c@stc=\count321
-\c@secttocdepth=\count322
-\stcindent=\skip66
+\c@ptc=\count327
+\c@parttocdepth=\count328
+\ptcindent=\skip70
+\c@stc=\count329
+\c@secttocdepth=\count330
+\stcindent=\skip71
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
 (minitoc)              on input line 4910.
@@ -1280,28 +1313,34 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkeyval.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks48
-\XKV@tempa@toks=\toks49
+\XKV@toks=\toks49
+\XKV@tempa@toks=\toks50
 )
-\XKV@depth=\count323
+\XKV@depth=\count331
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\xpg@normalclass=\XeTeXcharclass1
+\xpg@normalclass=\XeTeXcharclass7
 )
-("E:\Master1 RSD\Memoire\latex\tex\latex\polyglossia\gloss-german.ldf"
-File: gloss-german.ldf polyglossia: module for german
+("E:\Master1 RSD\Memoire\latex\tex\latex\polyglossia\gloss-french.ldf"
+File: gloss-french.ldf polyglossia: module for french
+\french@openbrackets=\XeTeXcharclass8
+\french@closebrackets=\XeTeXcharclass9
+\french@punctthin=\XeTeXcharclass10
+\french@punctthick=\XeTeXcharclass11
+\french@punctguillstart=\XeTeXcharclass12
+\french@punctguillend=\XeTeXcharclass13
 )
-Package polyglossia Info: Default language is german.
+Package polyglossia Info: Default language is french.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\csquotes\csquotes.sty"
 Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
-\csq@reset=\count324
-\csq@gtype=\count325
-\csq@glevel=\count326
-\csq@qlevel=\count327
-\csq@maxlvl=\count328
-\csq@tshold=\count329
-\csq@ltx@everypar=\toks50
+\csq@reset=\count332
+\csq@gtype=\count333
+\csq@glevel=\count334
+\csq@qlevel=\count335
+\csq@maxlvl=\count336
+\csq@tshold=\count337
+\csq@ltx@everypar=\toks51
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\csquotes\csquotes.def"
 File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
@@ -1314,31 +1353,31 @@ File: csquotes.cfg
 ))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\soul\soul.sty"
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks51
-\SOUL@lasttoken=\toks52
-\SOUL@cmds=\toks53
-\SOUL@buffer=\toks54
-\SOUL@token=\toks55
-\SOUL@spaceskip=\skip67
-\SOUL@ttwidth=\dimen283
-\SOUL@uldp=\dimen284
-\SOUL@ulht=\dimen285
+\SOUL@word=\toks52
+\SOUL@lasttoken=\toks53
+\SOUL@cmds=\toks54
+\SOUL@buffer=\toks55
+\SOUL@token=\toks56
+\SOUL@spaceskip=\skip72
+\SOUL@ttwidth=\dimen285
+\SOUL@uldp=\dimen286
+\SOUL@ulht=\dimen287
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\colortbl\colortbl.sty"
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen286
+\col@sep=\dimen288
 \ar@mcellbox=\box75
-\extrarowheight=\dimen287
-\NC@list=\toks56
-\extratabsurround=\skip68
-\backup@length=\skip69
+\extrarowheight=\dimen289
+\NC@list=\toks57
+\extratabsurround=\skip73
+\backup@length=\skip74
 \ar@cellbox=\box76
 )
-\everycr=\toks57
-\minrowclearance=\skip70
+\everycr=\toks58
+\minrowclearance=\skip75
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\fontawesome\fontawesome.sty"
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
@@ -1350,7 +1389,7 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 . 
 . Font "FontAwesome" does not contain any OpenType `Script' information.
 .................................................
-\g__fontspec_family_FontAwesome_int=\count330
+\g__fontspec_family_FontAwesome_int=\count338
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1393,8 +1432,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pgf\compatibility\pgfcomp-version-0-65
 .sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen288
-\pgf@nodesepend=\dimen289
+\pgf@nodesepstart=\dimen290
+\pgf@nodesepend=\dimen291
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\pgf\compatibility\pgfcomp-version-1-18
 .sty"
@@ -1408,10 +1447,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen290
-\pgffor@skip=\dimen291
-\pgffor@stack=\toks58
-\pgffor@toks=\toks59
+\pgffor@iter=\dimen292
+\pgffor@skip=\dimen293
+\pgffor@stack=\toks59
+\pgffor@toks=\toks60
 ))
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 "
@@ -1420,32 +1459,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\libraries\pgflibraryplothandlers
 .code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count331
-\pgfplotmarksize=\dimen292
+\pgf@plot@mark@count=\count339
+\pgfplotmarksize=\dimen294
 )
-\tikz@lastx=\dimen293
-\tikz@lasty=\dimen294
-\tikz@lastxsaved=\dimen295
-\tikz@lastysaved=\dimen296
-\tikzleveldistance=\dimen297
-\tikzsiblingdistance=\dimen298
+\tikz@lastx=\dimen295
+\tikz@lasty=\dimen296
+\tikz@lastxsaved=\dimen297
+\tikz@lastysaved=\dimen298
+\tikzleveldistance=\dimen299
+\tikzsiblingdistance=\dimen300
 \tikz@figbox=\box78
 \tikz@figbox@bg=\box79
 \tikz@tempbox=\box80
 \tikz@tempbox@bg=\box81
-\tikztreelevel=\count332
-\tikznumberofchildren=\count333
-\tikznumberofcurrentchild=\count334
-\tikz@fig@count=\count335
+\tikztreelevel=\count340
+\tikznumberofchildren=\count341
+\tikznumberofcurrentchild=\count342
+\tikz@fig@count=\count343
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 "
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count336
-\pgfmatrixcurrentcolumn=\count337
-\pgf@matrix@numberofcolumns=\count338
+\pgfmatrixcurrentrow=\count344
+\pgfmatrixcurrentcolumn=\count345
+\pgf@matrix@numberofcolumns=\count346
 )
-\tikz@expandcount=\count339
+\tikz@expandcount=\count347
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\frontendlayer\tikz\libraries\tik
 zlibrarytopaths.code.tex"
@@ -1462,7 +1501,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\libraries\pgflibraryarrows.code.
 tex"
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen299
+\arrowsize=\dimen301
 )) ("E:\Master1 RSD\Memoire\latex\tex\latex\animate\animate.sty"
 Package: animate 2018/06/27 PDF animations from files and inline graphics
 
@@ -1474,16 +1513,16 @@ Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count340
-\calc@Bcount=\count341
-\calc@Adimen=\dimen300
-\calc@Bdimen=\dimen301
-\calc@Askip=\skip71
-\calc@Bskip=\skip72
+\calc@Acount=\count348
+\calc@Bcount=\count349
+\calc@Adimen=\dimen302
+\calc@Bdimen=\dimen303
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count342
-\calc@Cskip=\skip73
+\calc@Ccount=\count350
+\calc@Cskip=\skip78
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\media9\pdfbase.sty"
 ("E:\Master1 RSD\Memoire\latex\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
@@ -1491,31 +1530,31 @@ Package: l3keys2e 2018-05-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: pdfbase 2018/06/07 v0.24 driver independent access to low-level PDF fe
 atures
-\g_pbs_page_int=\count343
-\g_pbs_obj_int=\count344
-\g_pbs_oc_int=\count345
+\g_pbs_page_int=\count351
+\g_pbs_obj_int=\count352
+\g_pbs_oc_int=\count353
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\ocgx2\ocgbase.sty"
 Package: ocgbase 2018/06/07 v0.14 support package for ocgx2.sty
-\g_ocgbase_nd_int=\count346
+\g_ocgbase_nd_int=\count354
 )
 \@anim@box=\box82
 \@anim@measbox=\box83
-\@anim@tmpdima=\dimen302
-\@anim@tmpdimb=\dimen303
-\@anim@num=\count347
-\@anim@curframe=\count348
-\@anim@curframe@zb=\count349
-\@anim@resizeflags=\count350
-\@anim@skipfram=\count351
-\@anim@mulframecnt=\count352
+\@anim@tmpdima=\dimen304
+\@anim@tmpdimb=\dimen305
+\@anim@num=\count355
+\@anim@curframe=\count356
+\@anim@curframe@zb=\count357
+\@anim@resizeflags=\count358
+\@anim@skipfram=\count359
+\@anim@mulframecnt=\count360
 \@anim@@tmlnfile=\read3
-\@anim@tmpcnt=\count353
-\c@@anim@ltxcnt=\count354
-\@anim@curlayer=\count355
-\@anim@lineno=\count356
-\@anim@curfield=\count357
-\@anim@@resizeflags=\count358
+\@anim@tmpcnt=\count361
+\c@@anim@ltxcnt=\count362
+\@anim@curlayer=\count363
+\@anim@lineno=\count364
+\@anim@curfield=\count365
+\@anim@@resizeflags=\count366
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 76.
 
@@ -1535,10 +1574,10 @@ line 2370.
 Package cleveref Info: `amsthm' support loaded on input line 3026.
 ) ("E:\Master1 RSD\Memoire\latex\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip74
-\bibsep=\skip75
+\bibhang=\skip79
+\bibsep=\skip80
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count359
+\c@NAT@ctr=\count367
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\frontendlayer\tikz\libraries\tik
 zlibraryshapes.geometric.code.tex"
@@ -1587,23 +1626,23 @@ ne 4.
 ("E:\Master1 RSD\Memoire\latex\tex\latex\adforn\uornementsadf.fd"))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count360
+\c@tracingmulticols=\count368
 \mult@box=\box84
-\multicol@leftmargin=\dimen304
-\c@unbalance=\count361
-\c@collectmore=\count362
-\doublecol@number=\count363
-\multicoltolerance=\count364
-\multicolpretolerance=\count365
-\full@width=\dimen305
-\page@free=\dimen306
-\premulticols=\dimen307
-\postmulticols=\dimen308
-\multicolsep=\skip76
-\multicolbaselineskip=\skip77
+\multicol@leftmargin=\dimen306
+\c@unbalance=\count369
+\c@collectmore=\count370
+\doublecol@number=\count371
+\multicoltolerance=\count372
+\multicolpretolerance=\count373
+\full@width=\dimen307
+\page@free=\dimen308
+\premulticols=\dimen309
+\postmulticols=\dimen310
+\multicolsep=\skip81
+\multicolbaselineskip=\skip82
 \partial@page=\box85
 \last@line=\box86
-\maxbalancingoverflow=\dimen309
+\maxbalancingoverflow=\dimen311
 \mult@rightbox=\box87
 \mult@grightbox=\box88
 \mult@gfirstbox=\box89
@@ -1625,38 +1664,38 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box105
 \@tempa=\box106
 \@tempa=\box107
-\c@columnbadness=\count366
-\c@finalcolumnbadness=\count367
-\last@try=\dimen310
-\multicolovershoot=\dimen311
-\multicolundershoot=\dimen312
+\c@columnbadness=\count374
+\c@finalcolumnbadness=\count375
+\last@try=\dimen312
+\multicolovershoot=\dimen313
+\multicolundershoot=\dimen314
 \mult@nat@firstbox=\box108
 \colbreak@box=\box109
-\mc@col@check@num=\count368
+\mc@col@check@num=\count376
 )
 (beamerthemealinz.sty (beamerinnerthemealinz.sty) (beamerouterthemealinz.sty
-\progressonsectionpage=\skip78
-\linewidthone=\skip79
+\progressonsectionpage=\skip83
+\linewidthone=\skip84
 )
 (beamercolorthemealinz.sty) (beamerfontthemealinz.sty))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.sty"
-\lst@mode=\count369
+\lst@mode=\count377
 \lst@gtempboxa=\box110
-\lst@token=\toks60
-\lst@length=\count370
-\lst@currlwidth=\dimen313
-\lst@column=\count371
-\lst@pos=\count372
-\lst@lostspace=\dimen314
-\lst@width=\dimen315
-\lst@newlines=\count373
-\lst@lineno=\count374
-\lst@maxwidth=\dimen316
+\lst@token=\toks61
+\lst@length=\count378
+\lst@currlwidth=\dimen315
+\lst@column=\count379
+\lst@pos=\count380
+\lst@lostspace=\dimen316
+\lst@width=\dimen317
+\lst@newlines=\count381
+\lst@lineno=\count382
+\lst@maxwidth=\dimen318
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count375
-\lst@skipnumbers=\count376
+\c@lstnumber=\count383
+\lst@skipnumbers=\count384
 \lst@framebox=\box111
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\listings\listings.cfg"
@@ -1669,12 +1708,12 @@ Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count377
-\algocf@hangindent=\skip80
+\c@AlgoLine=\count385
+\algocf@hangindent=\skip85
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\ifoddpage\ifoddpage.sty"
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count378
+\c@checkoddpage=\count386
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -1682,39 +1721,39 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ("E:\Master1 RSD\Memoire\latex\tex\latex\relsize\relsize.sty"
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip81
-\skiplinenumber=\skip82
-\skiprule=\skip83
-\skiphlne=\skip84
-\skiptext=\skip85
-\skiplength=\skip86
-\algomargin=\skip87
-\skipalgocfslide=\skip88
-\algowidth=\dimen317
-\inoutsize=\dimen318
-\inoutindent=\dimen319
-\interspacetitleruled=\dimen320
-\interspacealgoruled=\dimen321
-\interspacetitleboxruled=\dimen322
-\algocf@ruledwidth=\skip89
+\skiptotal=\skip86
+\skiplinenumber=\skip87
+\skiprule=\skip88
+\skiphlne=\skip89
+\skiptext=\skip90
+\skiplength=\skip91
+\algomargin=\skip92
+\skipalgocfslide=\skip93
+\algowidth=\dimen319
+\inoutsize=\dimen320
+\inoutindent=\dimen321
+\interspacetitleruled=\dimen322
+\interspacealgoruled=\dimen323
+\interspacetitleboxruled=\dimen324
+\algocf@ruledwidth=\skip94
 \algocf@inoutbox=\box112
 \algocf@inputbox=\box113
-\AlCapSkip=\skip90
-\AlCapHSkip=\skip91
-\algoskipindent=\skip92
+\AlCapSkip=\skip95
+\AlCapHSkip=\skip96
+\algoskipindent=\skip97
 \algocf@nlbox=\box114
 \algocf@hangingbox=\box115
 \algocf@untilbox=\box116
-\algocf@skipuntil=\skip93
+\algocf@skipuntil=\skip98
 \algocf@capbox=\box117
-\algocf@lcaptionbox=\skip94
-\algoheightruledefault=\skip95
-\algoheightrule=\skip96
-\algotitleheightruledefault=\skip97
-\algotitleheightrule=\skip98
-\c@algocfline=\count379
-\c@algocfproc=\count380
-\c@algocf=\count381
+\algocf@lcaptionbox=\skip99
+\algoheightruledefault=\skip100
+\algoheightrule=\skip101
+\algotitleheightruledefault=\skip102
+\algotitleheightrule=\skip103
+\c@algocfline=\count387
+\c@algocfproc=\count388
+\c@algocf=\count389
 \algocf@algoframe=\box118
 \algocf@algobox=\box119
 )
@@ -1738,78 +1777,78 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\pstricks.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\pst-fp.tex"
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count382
-\pstFP@xia=\count383
-\pstFP@xib=\count384
-\pstFP@xfa=\count385
-\pstFP@xfb=\count386
-\pstFP@rega=\count387
-\pstFP@regb=\count388
-\pstFP@regs=\count389
-\pstFP@times=\count390
+\pstFP@xs=\count390
+\pstFP@xia=\count391
+\pstFP@xib=\count392
+\pstFP@xfa=\count393
+\pstFP@xfb=\count394
+\pstFP@rega=\count395
+\pstFP@regb=\count396
+\pstFP@regs=\count397
+\pstFP@times=\count398
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks61
-\pgfutil@tempdima=\dimen323
-\pgfutil@tempdimb=\dimen324
+\pgfutil@everybye=\toks62
+\pgfutil@tempdima=\dimen325
+\pgfutil@tempdimb=\dimen326
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfutil-common-lists.t
 ex")) ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgfkeys.code.tex
 ") ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\utilities\pgffor.code.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen325
-\pgffor@skip=\dimen326
-\pgffor@stack=\toks62
-\pgffor@toks=\toks63
+\pgffor@iter=\dimen327
+\pgffor@skip=\dimen328
+\pgffor@stack=\toks63
+\pgffor@toks=\toks64
 )
-\psLoopIndex=\count391
+\psLoopIndex=\count399
 
 `PSTricks' v2.84  <2018/05/01> (tvz,hv)
-\pst@dima=\dimen327
-\pst@dimb=\dimen328
-\pst@dimc=\dimen329
-\pst@dimd=\dimen330
-\pst@dimg=\dimen331
-\pst@dimh=\dimen332
-\pst@dimm=\dimen333
-\pst@dimn=\dimen334
-\pst@dimo=\dimen335
-\pst@dimp=\dimen336
+\pst@dima=\dimen329
+\pst@dimb=\dimen330
+\pst@dimc=\dimen331
+\pst@dimd=\dimen332
+\pst@dimg=\dimen333
+\pst@dimh=\dimen334
+\pst@dimm=\dimen335
+\pst@dimn=\dimen336
+\pst@dimo=\dimen337
+\pst@dimp=\dimen338
 \pst@hbox=\box120
 \pst@ibox=\box121
 \pst@boxg=\box122
-\pst@cnta=\count392
-\pst@cntb=\count393
-\pst@cntc=\count394
-\pst@cntd=\count395
-\pst@cntg=\count396
-\pst@cnth=\count397
-\pst@cntm=\count398
-\pst@cntn=\count399
-\pst@cnto=\count400
-\pst@cntp=\count401
-\@zero=\count402
-\pst@toks=\toks64
+\pst@cnta=\count400
+\pst@cntb=\count401
+\pst@cntc=\count402
+\pst@cntd=\count403
+\pst@cntg=\count404
+\pst@cnth=\count405
+\pst@cntm=\count406
+\pst@cntn=\count407
+\pst@cnto=\count408
+\pst@cntp=\count409
+\@zero=\count410
+\pst@toks=\toks65
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"))
-\psunit=\dimen337
-\psxunit=\dimen338
-\psyunit=\dimen339
-\pst@C@@rType=\count403
-\pslinewidth=\dimen340
-\psk@startLW=\dimen341
-\psk@endLW=\dimen342
-\pst@customdefs=\toks65
-\pslinearc=\dimen343
-\pst@symbolStep=\dimen344
-\pst@symbolWidth=\dimen345
-\pst@symbolLinewidth=\dimen346
-\everypsbox=\toks66
-\psframesep=\dimen347
-\pslabelsep=\dimen348
-\sh@wgridXunit=\dimen349
-\sh@wgridYunit=\dimen350
-\pst@shift=\dimen351
+\psunit=\dimen339
+\psxunit=\dimen340
+\psyunit=\dimen341
+\pst@C@@rType=\count411
+\pslinewidth=\dimen342
+\psk@startLW=\dimen343
+\psk@endLW=\dimen344
+\pst@customdefs=\toks66
+\pslinearc=\dimen345
+\pst@symbolStep=\dimen346
+\pst@symbolWidth=\dimen347
+\pst@symbolLinewidth=\dimen348
+\everypsbox=\toks67
+\psframesep=\dimen349
+\pslabelsep=\dimen350
+\sh@wgridXunit=\dimen351
+\sh@wgridYunit=\dimen352
+\pst@shift=\dimen353
 
 ("E:\Master1 RSD\Memoire\latex\tex\xelatex\xetex-pstricks\pstricks.con"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks\xdvipdfmx.cfg"
@@ -1828,9 +1867,9 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\multido\multido.tex"
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count404
-\multidocount=\count405
-\multido@stuff=\toks67
+\multido@count=\count412
+\multidocount=\count413
+\multido@stuff=\toks68
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -1842,56 +1881,56 @@ Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pstricks-add\pstricks-add.tex"
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-node\pst-node.tex"
  v1.41, 2017/12/30
-\psrow=\count406
-\pscol=\count407
-\psmatrixcnt=\count408
-\psrowsep=\skip99
-\pscolsep=\skip100
-\pst@args=\count409
-\num@pts=\count410
-\pst@argcnt=\count411
+\psrow=\count414
+\pscol=\count415
+\psmatrixcnt=\count416
+\psrowsep=\skip104
+\pscolsep=\skip105
+\pst@args=\count417
+\num@pts=\count418
+\pst@argcnt=\count419
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-arrow\pst-arrow.tex"
 `pst-arrow' v0.01, 2016/09/01 (dr,hv)
-\pshooklength=\dimen352
-\pshookwidth=\dimen353
+\pshooklength=\dimen354
+\pshookwidth=\dimen355
 )
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-3d\pst-3d.tex"
 `PST-3d' v1.11, 2010/02/14 (tvz))
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-math\pst-math.tex"
 `pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.85a, 2018/02/03 (dr,hv)
-\psparallelogramsep=\dimen354
-\pst@cntC=\count412
-\pst@stepcount=\count413
-\chart@ColorIndex=\dimen355
-\chart@ColorStep=\dimen356
-\pst@chartHeight=\dimen357
-\pst@chartStackDepth=\dimen358
-\pst@chartStackWidth=\dimen359
-\chart@Toggle=\count414
-\psVectorCtr=\count415
+\psparallelogramsep=\dimen356
+\pst@cntC=\count420
+\pst@stepcount=\count421
+\chart@ColorIndex=\dimen357
+\chart@ColorStep=\dimen358
+\pst@chartHeight=\dimen359
+\pst@chartStackDepth=\dimen360
+\pst@chartStackWidth=\dimen361
+\chart@Toggle=\count422
+\psVectorCtr=\count423
 )
  v1.90, 2018/03/28 (tvz,hv)
-\pstRadUnit=\dimen360
-\pstRadUnitInv=\dimen361
-\pst@linecnt=\count416
+\pstRadUnit=\dimen362
+\pstRadUnitInv=\dimen363
+\pst@linecnt=\count424
 \RCD@file=\read4
-\psxlabelsep=\dimen362
-\psylabelsep=\dimen363
-\psk@subticksize=\dimen364
-\pst@xticksizeA=\dimen365
-\pst@xticksizeB=\dimen366
-\pst@xticksizeC=\dimen367
-\pst@yticksizeA=\dimen368
-\pst@yticksizeB=\dimen369
-\pst@yticksizeC=\dimen370
-\@digitcounter=\count417
-\psk@llx=\dimen371
-\psk@lly=\dimen372
-\psk@urx=\dimen373
-\psk@ury=\dimen374
-\pst@xunit=\dimen375
-\pst@yunit=\dimen376
+\psxlabelsep=\dimen364
+\psylabelsep=\dimen365
+\psk@subticksize=\dimen366
+\pst@xticksizeA=\dimen367
+\pst@xticksizeB=\dimen368
+\pst@xticksizeC=\dimen369
+\pst@yticksizeA=\dimen370
+\pst@yticksizeB=\dimen371
+\pst@yticksizeC=\dimen372
+\@digitcounter=\count425
+\psk@llx=\dimen373
+\psk@lly=\dimen374
+\psk@urx=\dimen375
+\psk@ury=\dimen376
+\pst@xunit=\dimen377
+\pst@yunit=\dimen378
 )
 File: pst-plot.tex 2018/03/28 1.90 `pst-plot' (tvz,hv)
 )
@@ -1900,7 +1939,7 @@ Package: pst-solides3d 2017/03/03 package wrapper for pst-solides3d
 
 ("E:\Master1 RSD\Memoire\latex\tex\generic\pst-solides3d\pst-solides3d.tex"
 `PSTSOLIDESIIID' v4.34, 2017/08/23
-\test@mode=\count418
+\test@mode=\count426
 Invalid UTF-8 byte or sequence at line 991 replaced by U+FFFD.
 )
 File: pst-solides3d.tex 2017/08/23 v4.34 `PST-solides3D'
@@ -1969,17 +2008,17 @@ File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 )))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks68
-\verbatim@line=\toks69
+\every@verbatim=\toks69
+\verbatim@line=\toks70
 \verbatim@in@stream=\read5
 )
 (misc/javascript.tex) (misc/html5.tex))
 ("E:\Master1 RSD\Memoire\latex\tex\latex\wrapfig\wrapfig.sty"
-\wrapoverhang=\dimen377
-\WF@size=\dimen378
-\c@WF@wrappedlines=\count419
+\wrapoverhang=\dimen379
+\WF@size=\dimen380
+\c@WF@wrappedlines=\count427
 \WF@box=\box143
-\WF@everypar=\toks70
+\WF@everypar=\toks71
 Package: wrapfig 2003/01/31  v 3.6
 )
 ("E:\Master1 RSD\Memoire\latex\tex\latex\marvosym\marvosym.sty"
@@ -1987,41 +2026,41 @@ Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\enquote' on input line 35.
+(hyperref)                removing `\enquote' on input line 17.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'german'.
+Package csquotes Info: Redefining alias 'default' -> 'french'.
 (main.aux
-LaTeX Font Info:    Try loading font information for U+lmss on input line 27.
-LaTeX Font Info:    No file Ulmss.fd. on input line 27.
+LaTeX Font Info:    Try loading font information for U+lmss on input line 26.
+LaTeX Font Info:    No file Ulmss.fd. on input line 26.
 
 
 LaTeX Font Warning: Font shape `U/lmss/m/n' undefined
-(Font)              using `U/cmr/m/n' instead on input line 27.
+(Font)              using `U/cmr/m/n' instead on input line 26.
 
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -2058,7 +2097,7 @@ LaTeX Font Info:    ... okay on input line 35.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box144
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 17.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2066,62 +2105,62 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("E:\Master1 RSD\Memoire\latex\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count420
+\c@section@level=\count428
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 35.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 35.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 35.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 35.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 17.
 \symnumbers=\mathgroup8
 \sympureletters=\mathgroup9
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 35.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 35.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 35.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 35.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 35.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 35.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 35.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 35.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 35.
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 35.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 35.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 35.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 35.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 17.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\translator\translator-basic-dictionary
 -English.dict"
@@ -2147,83 +2186,85 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@lstlisting=\count421
+LaTeX Info: Redefining \dots on input line 17.
+LaTeX Info: Redefining \up on input line 17.
+\c@lstlisting=\count429
  (main.nav)
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 38.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 38.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 20.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
-(Font)              using `T1/lmss/bx/n' instead on input line 38.
+(Font)              using `T1/lmss/bx/n' instead on input line 20.
 
 Missing character: There is no ’ in font ec-lmss8!
 File: resources/logo.png Graphic file (type bmp)
 <resources/logo.png>
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 38.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 20.
 
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 38.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 20.
 
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 38.
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+(Font)              <5> on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 38.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for U+stmry on input line 38.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 20.
 
 ("E:\Master1 RSD\Memoire\latex\tex\latex\stmaryrd\ustmry.fd")
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 38.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 38.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 38.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 20.
  [1
 
 ] (main.toc
-Package cleveref Info: loaded `german language definitions on input line 1.
-Package cleveref Info: loaded `german language definitions on input line 2.
+Package cleveref Info: loaded `french' language definitions on input line 1.
+Package cleveref Info: loaded `french' language definitions on input line 2.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
@@ -2265,6 +2306,10 @@ File: resources/Ariane_5.jpg Graphic file (type bmp)
 <resources/Ariane_5.jpg>
 
 
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 65.
+
+
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 (Font)              using `T1/lmr/bx/n' instead on input line 65.
 
@@ -2299,10 +2344,6 @@ Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
-
-Overfull \vbox (0.69627pt too high) detected at line 65
- []
-
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 [6
@@ -2319,10 +2360,6 @@ Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
  []
 
-
-Overfull \vbox (0.69627pt too high) detected at line 65
- []
-
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 [7
@@ -2337,10 +2374,6 @@ File: resources/bug2000.png Graphic file (type bmp)
 
 Overfull \hbox (5.21664pt too wide) in paragraph at lines 65--65
 [][][][]  
- []
-
-
-Overfull \vbox (0.69627pt too high) detected at line 65
  []
 
 File: resources/graphD.png Graphic file (type bmp)
@@ -2696,18 +2729,8 @@ and I'll forget about whatever was undefined.
 ]
 File: resources/partitions.png Graphic file (type bmp)
 <resources/partitions.png>
-File: resources/transitions.jpg Graphic file (type bmp)
-<resources/transitions.jpg>
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 33.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 33.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 33--33
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2716,14 +2739,12 @@ File: resources/graphD.png Graphic file (type bmp)
 [31
 
 ]
-File: resources/transition.jpg Graphic file (type bmp)
-<resources/transition.jpg>
-File: resources/bequilibre.jpg Graphic file (type bmp)
-<resources/bequilibre.jpg>
-File: resources/contre_exemple.pdf Graphic file (type pdf)
-<use resources/contre_exemple.pdf>
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2732,14 +2753,25 @@ File: resources/graphD.png Graphic file (type bmp)
 [32
 
 ]
-File: resources/transition.jpg Graphic file (type bmp)
-<resources/transition.jpg>
-File: resources/bequilibre.jpg Graphic file (type bmp)
-<resources/bequilibre.jpg>
-File: resources/contre_exemple.pdf Graphic file (type pdf)
-<use resources/contre_exemple.pdf>
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2748,14 +2780,20 @@ File: resources/graphD.png Graphic file (type bmp)
 [33
 
 ]
-File: resources/transition.jpg Graphic file (type bmp)
-<resources/transition.jpg>
-File: resources/bequilibre.jpg Graphic file (type bmp)
-<resources/bequilibre.jpg>
-File: resources/contre_exemple.pdf Graphic file (type pdf)
-<use resources/contre_exemple.pdf>
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 53.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 53.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 53.
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2764,15 +2802,26 @@ File: resources/graphD.png Graphic file (type bmp)
 [34
 
 ]
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
+[][][][]  
+ []
+
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [35
+[35
 
 ]
-File: resources/benstira/0001.pdf Graphic file (type pdf)
-<use resources/benstira/0001.pdf>
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2781,10 +2830,12 @@ File: resources/graphD.png Graphic file (type bmp)
 [36
 
 ]
-File: resources/benstira/0002.pdf Graphic file (type pdf)
-<use resources/benstira/0002.pdf>
+File: resources/partitions.png Graphic file (type bmp)
+<resources/partitions.png>
+File: resources/transitions.jpg Graphic file (type bmp)
+<resources/transitions.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 53--53
 [][][][]  
  []
 
@@ -2793,10 +2844,10 @@ File: resources/graphD.png Graphic file (type bmp)
 [37
 
 ]
-File: resources/benstira/0003.pdf Graphic file (type pdf)
-<use resources/benstira/0003.pdf>
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
 [][][][]  
  []
 
@@ -2805,10 +2856,14 @@ File: resources/graphD.png Graphic file (type bmp)
 [38
 
 ]
-File: resources/benstira/0004.pdf Graphic file (type pdf)
-<use resources/benstira/0004.pdf>
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
 [][][][]  
  []
 
@@ -2817,20 +2872,30 @@ File: resources/graphD.png Graphic file (type bmp)
 [39
 
 ]
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
+[][][][]  
+ []
+
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
- [40
+[40
 
 ]
-File: resources/benstira/critque1.pdf Graphic file (type pdf)
-<use resources/benstira/critque1.pdf>
-File: resources/benstira/critque2.pdf Graphic file (type pdf)
-<use resources/benstira/critque2.pdf>
-File: resources/benstira/critque3.pdf Graphic file (type pdf)
-<use resources/benstira/critque3.pdf>
-Missing character: There is no ≤ in font ec-lmss12!
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
 [][][][]  
  []
 
@@ -2839,13 +2904,14 @@ File: resources/graphD.png Graphic file (type bmp)
 [41
 
 ]
-File: resources/benstira/critque2.pdf Graphic file (type pdf)
-<use resources/benstira/critque2.pdf>
-File: resources/benstira/critque3.pdf Graphic file (type pdf)
-<use resources/benstira/critque3.pdf>
-Missing character: There is no ≤ in font ec-lmss12!
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
 [][][][]  
  []
 
@@ -2854,13 +2920,14 @@ File: resources/graphD.png Graphic file (type bmp)
 [42
 
 ]
-File: resources/benstira/critque2.pdf Graphic file (type pdf)
-<use resources/benstira/critque2.pdf>
-File: resources/benstira/critque3.pdf Graphic file (type pdf)
-<use resources/benstira/critque3.pdf>
-Missing character: There is no ≤ in font ec-lmss12!
+File: resources/transition.jpg Graphic file (type bmp)
+<resources/transition.jpg>
+File: resources/bequilibre.jpg Graphic file (type bmp)
+<resources/bequilibre.jpg>
+File: resources/contre_exemple.pdf Graphic file (type pdf)
+<use resources/contre_exemple.pdf>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 191--191
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 104--104
 [][][][]  
  []
 
@@ -2869,20 +2936,143 @@ File: resources/graphD.png Graphic file (type bmp)
 [43
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 210--210
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+ [44
+
+]
+File: resources/benstira/0001.pdf Graphic file (type pdf)
+<use resources/benstira/0001.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 158--158
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-[44
+[45
+
+]
+File: resources/benstira/0002.pdf Graphic file (type pdf)
+<use resources/benstira/0002.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 158--158
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[46
+
+]
+File: resources/benstira/0003.pdf Graphic file (type pdf)
+<use resources/benstira/0003.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 158--158
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[47
+
+]
+File: resources/benstira/0004.pdf Graphic file (type pdf)
+<use resources/benstira/0004.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 158--158
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[48
+
+]
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+ [49
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 221--221
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[50
+
+]
+File: resources/benstira/critque1.png Graphic file (type bmp)
+<resources/benstira/critque1.png>
+File: resources/benstira/critque2.png Graphic file (type bmp)
+<resources/benstira/critque2.png>
+File: resources/benstira/critque3.png Graphic file (type bmp)
+<resources/benstira/critque3.png>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 221--221
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[51
+
+]
+File: resources/benstira/critque1.png Graphic file (type bmp)
+<resources/benstira/critque1.png>
+File: resources/benstira/critque2.png Graphic file (type bmp)
+<resources/benstira/critque2.png>
+File: resources/benstira/critque3.png Graphic file (type bmp)
+<resources/benstira/critque3.png>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 221--221
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[52
+
+]
+File: resources/benstira/critque1.png Graphic file (type bmp)
+<resources/benstira/critque1.png>
+File: resources/benstira/critque2.png Graphic file (type bmp)
+<resources/benstira/critque2.png>
+File: resources/benstira/critque3.png Graphic file (type bmp)
+<resources/benstira/critque3.png>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 221--221
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[53
+
+]
+File: resources/benstira/critque2.png Graphic file (type bmp)
+<resources/benstira/critque2.png>
+File: resources/benstira/critque3.png Graphic file (type bmp)
+<resources/benstira/critque3.png>
+Missing character: There is no ≤ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 221--221
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[54
 
 ]) (contibution.tex
 ! Undefined control sequence.
 \beamer@@tmpl@progress bar in section page ...ble 
                                                   \begin {tikzpicture} \fill...
-l.1 \section{Contribution}
-                          
+l.1 \section{Contributions}
+                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2892,249 +3082,25 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \beamer@@tmpl@progress bar in section page ...ble 
                                                   
-l.1 \section{Contribution}
-                          
+l.1 \section{Contributions}
+                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[45
-
-]
-File: resources/benstira/critque1.pdf Graphic file (type pdf)
-<use resources/benstira/critque1.pdf>
-File: resources/pointpartition.pdf Graphic file (type pdf)
-<use resources/pointpartition.pdf>
-File: resources/pc.jpg Graphic file (type bmp)
-<resources/pc.jpg>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[46
-
-]
-File: resources/pointpartition.pdf Graphic file (type pdf)
-<use resources/pointpartition.pdf>
-File: resources/pc.jpg Graphic file (type bmp)
-<resources/pc.jpg>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[47
-
-]
-File: resources/pointpartition.pdf Graphic file (type pdf)
-<use resources/pointpartition.pdf>
-File: resources/pc.jpg Graphic file (type bmp)
-<resources/pc.jpg>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[48
-
-]
-File: resources/nash.jpg Graphic file (type bmp)
-<resources/nash.jpg>
-File: resources/prisonier.png Graphic file (type bmp)
-<resources/prisonier.png>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 79--79
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[49
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[50
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[51
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[52
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[53
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
-[54
-
-]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
-
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
-[][][][]  
- []
-
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
 [55
 
 ]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
+File: resources/benstira/critque1.png Graphic file (type bmp)
+<resources/benstira/critque1.png>
+File: resources/pointpartition.png Graphic file (type bmp)
+<resources/pointpartition.png>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
 [][][][]  
  []
 
@@ -3143,24 +3109,12 @@ File: resources/graphD.png Graphic file (type bmp)
 [56
 
 ]
-File: resources/d1.pdf Graphic file (type pdf)
-<use resources/d1.pdf>
-File: resources/d2.pdf Graphic file (type pdf)
-<use resources/d2.pdf>
-File: resources/d3.pdf Graphic file (type pdf)
-<use resources/d3.pdf>
-File: resources/d5.pdf Graphic file (type pdf)
-<use resources/d5.pdf>
-File: resources/d4.pdf Graphic file (type pdf)
-<use resources/d4.pdf>
-File: resources/d6.pdf Graphic file (type pdf)
-<use resources/d6.pdf>
-File: resources/d7.pdf Graphic file (type pdf)
-<use resources/d7.pdf>
-File: resources/d8.pdf Graphic file (type pdf)
-<use resources/d8.pdf>
+File: resources/pointpartition.png Graphic file (type bmp)
+<resources/pointpartition.png>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
 
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 137--137
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
 [][][][]  
  []
 
@@ -3169,13 +3123,441 @@ File: resources/graphD.png Graphic file (type bmp)
 [57
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 149--149
+File: resources/pointpartition.png Graphic file (type bmp)
+<resources/pointpartition.png>
+File: resources/pc.jpg Graphic file (type bmp)
+<resources/pc.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 55--55
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
 [58
+
+]
+File: resources/nash.jpg Graphic file (type bmp)
+<resources/nash.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 85--85
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[59
+
+]
+File: resources/nash.jpg Graphic file (type bmp)
+<resources/nash.jpg>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 85--85
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[60
+
+]
+File: resources/nash.jpg Graphic file (type bmp)
+<resources/nash.jpg>
+File: resources/prisonier.png Graphic file (type bmp)
+<resources/prisonier.png>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 85--85
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[61
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[62
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[63
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[64
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[65
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[66
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[67
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[68
+
+]
+File: resources/d1.pdf Graphic file (type pdf)
+<use resources/d1.pdf>
+File: resources/d3.pdf Graphic file (type pdf)
+<use resources/d3.pdf>
+File: resources/d2.pdf Graphic file (type pdf)
+<use resources/d2.pdf>
+File: resources/d4.pdf Graphic file (type pdf)
+<use resources/d4.pdf>
+File: resources/d6.pdf Graphic file (type pdf)
+<use resources/d6.pdf>
+File: resources/d5.pdf Graphic file (type pdf)
+<use resources/d5.pdf>
+File: resources/d7.pdf Graphic file (type pdf)
+<use resources/d7.pdf>
+File: resources/d8.pdf Graphic file (type pdf)
+<use resources/d8.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 146--146
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[69
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 158--158
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[70
+
+]
+File: resources/testpetri1.pdf Graphic file (type pdf)
+<use resources/testpetri1.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[71
+
+]
+File: resources/testpetri2.pdf Graphic file (type pdf)
+<use resources/testpetri2.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[72
+
+]
+File: resources/testpetri3.pdf Graphic file (type pdf)
+<use resources/testpetri3.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[73
+
+]
+File: resources/testpetri4.pdf Graphic file (type pdf)
+<use resources/testpetri4.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[74
+
+]
+File: resources/testpetri5.pdf Graphic file (type pdf)
+<use resources/testpetri5.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[75
+
+]
+File: resources/testpetri6.pdf Graphic file (type pdf)
+<use resources/testpetri6.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[76
+
+]
+File: resources/testpetri7.pdf Graphic file (type pdf)
+<use resources/testpetri7.pdf>
+File: resources/DRDP1.pdf Graphic file (type pdf)
+<use resources/DRDP1.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[77
+
+]
+File: resources/testpetri7.pdf Graphic file (type pdf)
+<use resources/testpetri7.pdf>
+File: resources/DRDP1.pdf Graphic file (type pdf)
+<use resources/DRDP1.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[78
+
+]
+File: resources/testpetri7.pdf Graphic file (type pdf)
+<use resources/testpetri7.pdf>
+File: resources/DRDP2.pdf Graphic file (type pdf)
+<use resources/DRDP2.pdf>
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 215--215
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[79
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[80
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[81
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[82
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[83
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[84
+
+]
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 310--310
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[85
 
 ]) (conclusion.tex
 ! Undefined control sequence.
@@ -3200,59 +3582,77 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[59
+[86
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 14--14
+Missing character: There is no ’ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 10--10
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-[60
+[87
 
 ]
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 25--25
+Missing character: There is no ’ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 10--10
 [][][][]  
  []
 
 File: resources/graphD.png Graphic file (type bmp)
 <resources/graphD.png>
-[61
+[88
+
+]
+Missing character: There is no ’ in font ec-lmss12!
+Missing character: There is no ’ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 23--23
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[89
+
+]
+Missing character: There is no ’ in font ec-lmss12!
+Missing character: There is no ’ in font ec-lmss12!
+
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 23--23
+[][][][]  
+ []
+
+File: resources/graphD.png Graphic file (type bmp)
+<resources/graphD.png>
+[90
 
 ])
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
- [62
-
-]
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
- [63
-
-]
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
- [64
-
-]
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
- [65
-
-]
-File: resources/graphD.png Graphic file (type bmp)
-<resources/graphD.png>
- [66
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <24.88> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 40.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24.88> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20.74> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
+ [91
 
 ] (main.bbl
 Missing character: There is no ’ in font ec-lmsso12!
 )
-Overfull \hbox (5.21664pt too wide) in paragraph at lines 70--70
+Overfull \hbox (5.21664pt too wide) in paragraph at lines 45--45
 [][][][]  
  []
 
-[67
+[92
 
 ]
 \tf@nav=\write7
@@ -3269,28 +3669,28 @@ Package minitoc Info: I0009
 (minitoc)             Creating the main.maf file.
 \openout5 = `main.maf'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
  (main.aux
-Package cleveref Info: loaded `german language definitions on input line 27.
-Package cleveref Info: loaded `german language definitions on input line 31.
+Package cleveref Info: loaded `french' language definitions on input line 26.
+Package cleveref Info: loaded `french' language definitions on input line 30.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 47.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20ADDB78788D2F1EEF45F5E8A72960C9.
+(rerunfilecheck)             Checksum: 2F0850671954BF95A15ED23DDB0688A1.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 51206 strings out of 427798
- 977361 string characters out of 3151608
- 1404563 words of memory out of 3000000
- 54106 multiletter control sequences out of 15000+200000
- 642269 words of font info for 108 fonts, out of 3000000 for 9000
+ 51832 strings out of 427798
+ 987434 string characters out of 3151608
+ 1421090 words of memory out of 3000000
+ 54717 multiletter control sequences out of 15000+200000
+ 668820 words of font info for 134 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,19n,85p,1100b,1433s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,85p,1100b,1413s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (67 pages).
+Output written on main.pdf (92 pages).

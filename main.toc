@@ -1,19 +1,20 @@
-\select@language {german}
-\select@language {german}
+\select@language {french}
+\select@language {french}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Contexte}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Problèmes}{17}{0}{1}
 \beamer@subsectionintoc {1}{3}{Motivation}{27}{0}{1}
 \beamer@sectionintoc {2}{Solutions Proposées}{30}{0}{2}
 \beamer@subsectionintoc {2}{1}{Première Catégorie}{31}{0}{2}
-\beamer@subsectionintoc {2}{2}{Deuxième Catégorie}{32}{0}{2}
-\beamer@subsectionintoc {2}{3}{Solution en aval}{35}{0}{2}
-\beamer@subsectionintoc {2}{4}{Partitionnent}{44}{0}{2}
-\beamer@sectionintoc {3}{Contribution}{45}{0}{3}
-\beamer@subsectionintoc {3}{1}{Points de partitions}{46}{0}{3}
-\beamer@subsectionintoc {3}{2}{Équilibre de Nash}{49}{0}{3}
-\beamer@subsectionintoc {3}{3}{Stratégie de Distribution}{50}{0}{3}
-\beamer@subsectionintoc {3}{4}{Model checking par déduction}{58}{0}{3}
-\beamer@sectionintoc {4}{Conclusion}{59}{0}{4}
-\beamer@subsectionintoc {4}{1}{Conclusion}{60}{0}{4}
-\beamer@subsectionintoc {4}{2}{Perspectives}{61}{0}{4}
+\beamer@subsectionintoc {2}{2}{Deuxième Catégorie}{38}{0}{2}
+\beamer@subsectionintoc {2}{3}{Solution en aval}{44}{0}{2}
+\beamer@sectionintoc {3}{Contributions}{55}{0}{3}
+\beamer@subsectionintoc {3}{1}{Points de partitions}{56}{0}{3}
+\beamer@subsectionintoc {3}{2}{Équilibre de Nash}{59}{0}{3}
+\beamer@subsectionintoc {3}{3}{Stratégie de Distribution}{62}{0}{3}
+\beamer@subsectionintoc {3}{4}{Model checking par déduction}{70}{0}{3}
+\beamer@subsectionintoc {3}{5}{Exemple}{71}{0}{3}
+\beamer@subsectionintoc {3}{6}{Résultat}{80}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{86}{0}{4}
+\beamer@subsectionintoc {4}{1}{Conclusion}{87}{0}{4}
+\beamer@subsectionintoc {4}{2}{Perspectives}{89}{0}{4}

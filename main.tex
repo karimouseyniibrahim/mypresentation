@@ -4,32 +4,14 @@
 \input{misc/variables}
 \input{misc/meta}
 \input{misc/preamble}
-%\usepackage[utf8]{inputenc} % this is needed for german umlauts
-%\usepackage[ngerman]{babel} % this is needed for german umlauts
-%\usepackage[T1]{fontenc}    % this is needed for correct output of umlauts in pdf
 
 \usepackage{verbatim}
 \usepackage{tikz}
 \usetikzlibrary{arrows,shapes}
 
-% see http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
-%\usetheme{Frankfurt}
-\usetheme{alinz}
-%\usepackage[frenchb]{babel}
-%\usepackage[T1]{fontenc}
-%\usepackage[utf8]{inputenc}
-
-% \usetheme{default} -> A utiliser dans un premier temps
-% \usetheme{Warsaw} -> A utiliser dans un second temps
-% position the logo
  \jurya{Pr. Djamel Eddine SAIDOUNI}{Directeur de mémoire}{}
  \juryb{Dr. Bouneb Zine El Abidine}{Co-encadreur}{}
 
-
-%\title[Faire une présentation en LaTeX avec Beamer]{\LARGE Développement d'une approche de distribution des espaces d'états basé sur la théorie de jeux : Application au model checking distribué}
-%\author{Spader}
-%\institute{www.siteduzero.com}
-%\date{\today}
 \usepackage{multicol}
 \usepackage{marvosym}
 \begin{document}
@@ -43,26 +25,19 @@
 
 \tableofcontents
 \end{frame}
-
 	\input{introduction}
 	\input{problematique}
 	\input{contibution}
-	\input{conclusion}
-
-
-\begin{frame}
-\begin{itemize}[<+->]
-	\transdissolve
-	\transduration{2}
-	\item Large number of possible parameter-value combinations
-	\item Hard to find the optimal parameters
-	\item Which parameters should be changed and by how much. 
-	\item muliticollinearity or high correlation between parameter values
-	\item Which criteria for evaluating the difference between observed and 
-	simulated runoff.
-\end{itemize}
-{\tiny }\end{frame}
- 
+	\input{conclusion} 
+	\begin{frame}[plain, c]
+	\topskip0pt
+	\vspace*{\fill}
+	\begin{center}
+		\Huge \textbf{Merci de votre attention	}\\
+		\huge \underline{Question?}
+	\end{center}
+	\vspace*{\fill}
+\end{frame}
 \begin{frame}[plain, noframenumbering]{Bibliographie}
 	\bibliographystyle{dinat}
 	\bibliography{Biblio}

@@ -9,27 +9,47 @@
 	\end{center}
 	\vspace{-35pt}
 	\end{wrapfigure}
-       Les approches de cette catégorie aboutissent à une meilleur équilibrage de charge entre les différentes machines.
+       Les approches de cette catégorie aboutissent à un meilleur équilibrage de charge entre les différentes machines.
+       
+       
 		\begin{columns}
       		\begin{column}{0.3\textwidth}
-      			\begin{figure}
-      				\centering
-      				\includegraphics[width=\linewidth]{resources/transitions}
-      			\end{figure}      			
+   				\only<2->
+      			{
+	      			\begin{figure}
+	      				\centering
+	      				\includegraphics[width=\linewidth]{resources/transitions}
+	      			\end{figure}   
+      			}   			
       		\end{column}
       	
 	      	\begin{column}{0.7\textwidth}
+      			\only<3->
+	      		{
 	      		\begin{block}{Problèmes}
 	      			\begin{itemize}
+	      			\only<4->
+	      			{	
 	      				\item Distribution statique.% la distribution reste intacte tout au long du model cheking
-	      				\item Nombre de Transitons externes minimum implique -t-il réduction du taux de communication?.% pourai entrainer un nombre elever de communications
-	      				
+	      			}
+      				\only<5->
+      				{
+	      				\item Nombre de Transitons externes minimum implique -t-il réduction du taux de communication?% pourai entrainer un nombre elever de communications	 
+	      			}
+      				\only<6->
+      				{     				
 	      				\item La puissance des machines non exploitée.% il peut y avoir des machines qui effetue peut de calcule alors que les autres un nombre elevé de calcul
-	      				\item Temps de réponse déraisonnable.
+	      			}
+	      			\only<7->
+	      			{
+	      				\item Temps de réponse non raisonnable.
+	      			}
 	      			\end{itemize}
 	      		\end{block}
+      		  }
 	      	\end{column}
-      	\end{columns}	    
+      	\end{columns}
+     
 \end{frame}
 
 \subsection{Deuxième Catégorie}
@@ -41,6 +61,8 @@
 \end{wrapfigure}
 La philosophie de cette catégorie vise à minimiser les transitions externes avec un bon équilibrage de charge entre les différentes machines.
  
+ \only<2->
+ {
 		%\item Distribution statique.% la distribution reste intacte tout au long du model cheking
 		\begin{columns}
 			\begin{column}{0.3\textwidth}
@@ -48,15 +70,15 @@ La philosophie de cette catégorie vise à minimiser les transitions externes av
 				\begin{figure}
 					\begin{tikzpicture}		
 
-						\node [inner sep=-10pt,visible on=<1-1>]{
+						\node [inner sep=-10pt,visible on=<1-4>]{
 							\includegraphics[height=1.2in,width=\columnwidth,trim={0 0 0 0},clip]{resources/bequilibre}
 						};              
 					
-					\node [inner sep=-10pt,visible on=<2->]
+					\node [inner sep=-10pt,visible on=<5->]
 					{
 						\includegraphics[height=1.2in,width=\columnwidth,trim={0 0 0 0},clip]{resources/contre_exemple}
 					}; 
-					\node[inner sep=-10pt,visible on=<3->](expressions) at (-1.3,-1.8) {AG\(f\)};             
+					\node[inner sep=-10pt,visible on=<6->](expressions) at (-1.3,-1.8) {AG\(f\)};             
 			
 					\end{tikzpicture}
 				\end{figure}
@@ -68,14 +90,17 @@ La philosophie de cette catégorie vise à minimiser les transitions externes av
          		\begin{itemize}
          		\item Distribution statique.% la distribution reste intacte tout au long du model cheking
          		\item L'équilibrage peut être dégradé.% pourai entrainer un nombre elever de communications
-         	%
          		\item La puissance des machines non exploitée.% il peut y avoir des machines qui effetue peut de calcule alors que les autres un nombre elevé de calcul         		
          	 \end{itemize}
            \end{block}
          \end{column}
 		\end{columns}
+}
  \vspace{0.5cm}
-\textbf{ Minimisation des transitions externes \color{red} $\stackrel{?}{\Rightarrow}$ Temps de réponse minimisé}.  
+ \only<4->
+ {
+	\textbf{ Minimisation des transitions externes \color{red} $\stackrel{?}{\Rightarrow}$ Temps de réponse minimisé}.  
+}
 \end{frame}
 
 \subsection{Solution en aval}
@@ -153,13 +178,14 @@ La philosophie de cette catégorie vise à minimiser les transitions externes av
 			\end{itemize}
 		\end{column}
 	\end{columns}
-
+\only<2->
+{
 	\begin{columns}
 		\begin{column}{0.3\textwidth}
 			\centering
 			\begin{figure}				
 				\begin{tikzpicture}		
-					\only<1-1>
+					\only<2-4>
 					{
 						\node [inner sep=-10pt]
 						{
@@ -167,12 +193,12 @@ La philosophie de cette catégorie vise à minimiser les transitions externes av
 						};              
 					}
 					
-					\node [inner sep=-10pt,visible on=<2-2>]
+					\node [inner sep=-10pt,visible on=<4-4>]
 					{
 						\includegraphics[height=1.2in,width=\columnwidth,trim={0 0 0 0},clip]{resources/benstira/critque2}
 					};  
 				
-					\node [inner sep=-10pt,visible on=<3-3>]
+					\node [inner sep=-10pt,visible on=<5-5>]
 					{
 						\includegraphics[height=1.2in,width=\columnwidth,trim={0 0 0 0},clip]{resources/benstira/critque3}
 					};                
@@ -183,28 +209,13 @@ La philosophie de cette catégorie vise à minimiser les transitions externes av
 		\begin{column}{0.7\textwidth}
 			\begin{itemize}
 				\item AG(a)
+				\only<3->
+				{
 				\item Si 0.45 < L/$N_t$ ≤ 0.75, alors dupliqué \color{red}{\tiny \citep{BENSETIRA2017}}.
+			}
 			\end{itemize}
 		\end{column}
 	\end{columns}
-\end{block}
-\end{frame}
-
-\subsection{Partitionnent}
-\begin{frame}{tite subsection}
-\vspace{-10pt}
-\begin{block}{Critiques}
-	\vspace{-15pt}
-	\begin{columns}
-		\begin{column}{\textwidth}
-			\begin{itemize}
-				\item Minimisations des transitions externes.
-				\item Duplications et Migrations basées sur les transitions.
-				\item Certains machines peuvent être surchargées de calcul ou de stockage.
-				\item Duplication de certains états est sans intérêt.% sinon le model checking sera faux
-			\end{itemize}
-		\end{column}
-	\end{columns}
-	
+}
 \end{block}
 \end{frame}

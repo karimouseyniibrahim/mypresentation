@@ -34,69 +34,73 @@
 \headcommand {\beamer@framepages {30}{30}}
 \headcommand {\beamer@subsectionpages {30}{30}}
 \headcommand {\beamer@subsectionentry {0}{2}{1}{31}{Première Catégorie}}
-\headcommand {\slideentry {2}{1}{1}{31/31}{Première Catégorie}{0}}
-\headcommand {\beamer@framepages {31}{31}}
-\headcommand {\beamer@subsectionpages {31}{31}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{32}{Deuxième Catégorie}}
-\headcommand {\slideentry {2}{2}{1}{32/34}{Deuxième Catégorie}{0}}
-\headcommand {\beamer@framepages {32}{34}}
-\headcommand {\beamer@subsectionpages {32}{34}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{35}{Solution en aval}}
-\headcommand {\slideentry {2}{3}{1}{35/35}{Solution en aval}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {2}{3}{2}{36/39}{Solution en aval}{0}}
-\headcommand {\beamer@framepages {36}{39}}
-\headcommand {\slideentry {2}{3}{3}{40/40}{Solution en aval}{0}}
-\headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {2}{3}{4}{41/43}{Solution en aval}{0}}
-\headcommand {\beamer@framepages {41}{43}}
-\headcommand {\beamer@subsectionpages {35}{43}}
-\headcommand {\beamer@subsectionentry {0}{2}{4}{44}{Partitionnent}}
-\headcommand {\slideentry {2}{4}{1}{44/44}{Partitionnent}{0}}
+\headcommand {\slideentry {2}{1}{1}{31/37}{Première Catégorie}{0}}
+\headcommand {\beamer@framepages {31}{37}}
+\headcommand {\beamer@subsectionpages {31}{37}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{38}{Deuxième Catégorie}}
+\headcommand {\slideentry {2}{2}{1}{38/43}{Deuxième Catégorie}{0}}
+\headcommand {\beamer@framepages {38}{43}}
+\headcommand {\beamer@subsectionpages {38}{43}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{44}{Solution en aval}}
+\headcommand {\slideentry {2}{3}{1}{44/44}{Solution en aval}{0}}
 \headcommand {\beamer@framepages {44}{44}}
-\headcommand {\beamer@sectionpages {30}{44}}
-\headcommand {\beamer@subsectionpages {44}{44}}
-\headcommand {\sectionentry {3}{Contribution}{45}{Contribution}{0}}
-\headcommand {\slideentry {3}{0}{1}{45/45}{}{0}}
-\headcommand {\beamer@framepages {45}{45}}
-\headcommand {\beamer@subsectionpages {45}{45}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{46}{Points de partitions}}
-\headcommand {\slideentry {3}{1}{1}{46/48}{Points de partitions}{0}}
-\headcommand {\beamer@framepages {46}{48}}
-\headcommand {\beamer@subsectionpages {46}{48}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{49}{Équilibre de Nash}}
-\headcommand {\slideentry {3}{2}{1}{49/49}{Équilibre de Nash}{0}}
+\headcommand {\slideentry {2}{3}{2}{45/48}{Solution en aval}{0}}
+\headcommand {\beamer@framepages {45}{48}}
+\headcommand {\slideentry {2}{3}{3}{49/49}{Solution en aval}{0}}
 \headcommand {\beamer@framepages {49}{49}}
-\headcommand {\beamer@subsectionpages {49}{49}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{50}{Stratégie de Distribution}}
-\headcommand {\slideentry {3}{3}{1}{50/57}{Stratégie de Distribution}{0}}
-\headcommand {\beamer@framepages {50}{57}}
-\headcommand {\beamer@subsectionpages {50}{57}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{58}{Model checking par déduction}}
-\headcommand {\slideentry {3}{4}{1}{58/58}{Model checking par déduction}{0}}
-\headcommand {\beamer@framepages {58}{58}}
-\headcommand {\beamer@sectionpages {45}{58}}
-\headcommand {\beamer@subsectionpages {58}{58}}
-\headcommand {\sectionentry {4}{Conclusion}{59}{Conclusion}{0}}
-\headcommand {\slideentry {4}{0}{1}{59/59}{}{0}}
-\headcommand {\beamer@framepages {59}{59}}
-\headcommand {\beamer@subsectionpages {59}{59}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{60}{Conclusion}}
-\headcommand {\slideentry {4}{1}{1}{60/60}{Conclusion}{0}}
-\headcommand {\beamer@framepages {60}{60}}
-\headcommand {\beamer@subsectionpages {60}{60}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{61}{Perspectives}}
-\headcommand {\slideentry {4}{2}{1}{61/61}{Perspectives}{0}}
-\headcommand {\beamer@framepages {61}{61}}
-\headcommand {\slideentry {4}{2}{2}{62/66}{Perspectives}{0}}
-\headcommand {\beamer@framepages {62}{66}}
-\headcommand {\beamer@sectionpages {59}{66}}
-\headcommand {\beamer@subsectionpages {61}{66}}
-\headcommand {\sectionentry {5}{Bibliographie}{67}{Bibliographie}{0}}
-\headcommand {\slideentry {5}{0}{0}{67/67}{Perspectives}{0}}
-\headcommand {\beamer@framepages {67}{67}}
-\headcommand {\beamer@partpages {1}{67}}
-\headcommand {\beamer@subsectionpages {61}{67}}
-\headcommand {\beamer@sectionpages {59}{67}}
-\headcommand {\beamer@documentpages {67}}
-\headcommand {\gdef \inserttotalframenumber {21}}
+\headcommand {\slideentry {2}{3}{4}{50/54}{Solution en aval}{0}}
+\headcommand {\beamer@framepages {50}{54}}
+\headcommand {\beamer@sectionpages {30}{54}}
+\headcommand {\beamer@subsectionpages {44}{54}}
+\headcommand {\sectionentry {3}{Contributions}{55}{Contributions}{0}}
+\headcommand {\slideentry {3}{0}{1}{55/55}{}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\beamer@subsectionpages {55}{55}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{56}{Points de partitions}}
+\headcommand {\slideentry {3}{1}{1}{56/58}{Points de partitions}{0}}
+\headcommand {\beamer@framepages {56}{58}}
+\headcommand {\beamer@subsectionpages {56}{58}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{59}{Équilibre de Nash}}
+\headcommand {\slideentry {3}{2}{1}{59/61}{Équilibre de Nash}{0}}
+\headcommand {\beamer@framepages {59}{61}}
+\headcommand {\beamer@subsectionpages {59}{61}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{62}{Stratégie de Distribution}}
+\headcommand {\slideentry {3}{3}{1}{62/69}{Stratégie de Distribution}{0}}
+\headcommand {\beamer@framepages {62}{69}}
+\headcommand {\beamer@subsectionpages {62}{69}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{70}{Model checking par déduction}}
+\headcommand {\slideentry {3}{4}{1}{70/70}{Model checking par déduction}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\beamer@subsectionpages {70}{70}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{71}{Exemple}}
+\headcommand {\slideentry {3}{5}{1}{71/79}{Exemple}{0}}
+\headcommand {\beamer@framepages {71}{79}}
+\headcommand {\beamer@subsectionpages {71}{79}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{80}{Résultat}}
+\headcommand {\slideentry {3}{6}{1}{80/85}{Résultat}{0}}
+\headcommand {\beamer@framepages {80}{85}}
+\headcommand {\beamer@sectionpages {55}{85}}
+\headcommand {\beamer@subsectionpages {80}{85}}
+\headcommand {\sectionentry {4}{Conclusion}{86}{Conclusion}{0}}
+\headcommand {\slideentry {4}{0}{1}{86/86}{}{0}}
+\headcommand {\beamer@framepages {86}{86}}
+\headcommand {\beamer@subsectionpages {86}{86}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{87}{Conclusion}}
+\headcommand {\slideentry {4}{1}{1}{87/88}{Conclusion}{0}}
+\headcommand {\beamer@framepages {87}{88}}
+\headcommand {\beamer@subsectionpages {87}{88}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{89}{Perspectives}}
+\headcommand {\slideentry {4}{2}{1}{89/90}{Perspectives}{0}}
+\headcommand {\beamer@framepages {89}{90}}
+\headcommand {\slideentry {4}{2}{2}{91/91}{Perspectives}{0}}
+\headcommand {\beamer@framepages {91}{91}}
+\headcommand {\beamer@sectionpages {86}{91}}
+\headcommand {\beamer@subsectionpages {89}{91}}
+\headcommand {\sectionentry {5}{Bibliographie}{92}{Bibliographie}{0}}
+\headcommand {\slideentry {5}{0}{0}{92/92}{Perspectives}{0}}
+\headcommand {\beamer@framepages {92}{92}}
+\headcommand {\beamer@partpages {1}{92}}
+\headcommand {\beamer@subsectionpages {89}{92}}
+\headcommand {\beamer@sectionpages {86}{92}}
+\headcommand {\beamer@documentpages {92}}
+\headcommand {\gdef \inserttotalframenumber {22}}
